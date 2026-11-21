@@ -1,0 +1,1322 @@
+visit_id,hospital_id,local_patient_id,visit_date,department,complaint
+V1,1,H1-00001,22/09/2026,Gynaecology,chest pain ? MI
+V2,1,H1-00001,15/12/2025,Gynaecology,T2DM uncontrolled
+V3,1,H1-00001,2026-01-11,Paediatrics,# femur
+V4,2,H2-00001,2026-03-09,General Medicine,dengue +ve
+V5,2,H2-00001,20/12/2025,ENT,# femur
+V6,2,H2-00001,29/10/2026,Orthopaedics,post op wound care
+V7,3,H3-00001,08/09/2026,Gynaecology,UTI
+V8,3,H3-00001,20/08/2026,Paediatrics,T2DM uncontrolled
+V9,3,H3-00001,2026-06-03,ENT,high BP
+V10,3,H3-00001,28-09-2026,Gynaecology,high BP
+V11,3,H3-00001,08/04/2026,Gynaecology,post op wound care
+V12,4,H4-00001,2025-11-19,Gynaecology,dengue +ve
+V13,4,H4-00001,2026-03-14,Cardiology,tb suspect
+V14,1,H1-00002,2026-02-10,Paediatrics,UTI
+V15,2,H2-00002,2025-11-13,ENT,asthma exacerbation
+V16,2,H2-00002,17/10/2026,General Medicine,T2DM uncontrolled
+V17,3,H3-00002,2025-10-15,Orthopaedics,# femur
+V18,3,H3-00002,2026-09-30,ENT,viral fever
+V19,3,H3-00002,24/05/2026,Paediatrics,pneumonia
+V20,3,H3-00002,31/07/2026,Cardiology,post op wound care
+V21,3,H3-00002,2025-12-09,Paediatrics,T2DM uncontrolled
+V22,4,H4-00002,2026-05-24,Cardiology,renal calculus
+V23,4,H4-00002,04/06/2026,Orthopaedics,loose motions / vomiting
+V24,4,H4-00002,29-12-2025,Orthopaedics,# femur
+V25,4,H4-00002,07-03-2026,Gynaecology,chest pain ? MI
+V26,4,H4-00002,2026-11-14,ENT,acute appendicitis
+V27,1,H1-00003,2025-12-12,General Medicine,pneumonia
+V28,1,H1-00003,22-04-2026,Cardiology,Typhoid fever
+V29,1,H1-00003,2026-04-09,General Medicine,high BP
+V30,2,H2-00003,20/07/2026,Paediatrics,dengue +ve
+V31,1,H1-00004,2026-09-24,Cardiology,renal calculus
+V32,1,H1-00004,22/05/2026,Gynaecology,pneumonia
+V33,1,H1-00004,27/02/2026,Paediatrics,Typhoid fever
+V34,1,H1-00004,13/01/2026,Orthopaedics,# femur
+V35,3,H3-00003,2026-10-14,Orthopaedics,high BP
+V36,3,H3-00003,2025-10-30,Paediatrics,Typhoid fever
+V37,3,H3-00003,17/09/2026,General Medicine,loose motions / vomiting
+V38,3,H3-00003,2026-05-14,General Medicine,T2DM uncontrolled
+V39,3,H3-00003,2026-01-24,Paediatrics,acute appendicitis
+V40,4,H4-00003,2026-11-10,Orthopaedics,acute appendicitis
+V41,1,H1-00005,31-01-2026,Cardiology,T2DM uncontrolled
+V42,2,H2-00004,27/09/2026,General Medicine,renal calculus
+V43,2,H2-00004,2025-11-06,Orthopaedics,loose motions / vomiting
+V44,3,H3-00004,19/08/2026,Cardiology,viral fever
+V45,3,H3-00004,2026-02-20,ENT,Typhoid fever
+V46,4,H4-00004,31/12/2025,Gynaecology,UTI
+V47,4,H4-00004,2026-09-26,Paediatrics,loose motions / vomiting
+V48,4,H4-00004,2026-03-04,Paediatrics,viral fever
+V49,1,H1-00006,2026-07-26,Paediatrics,acute appendicitis
+V50,2,H2-00005,2026-03-27,General Medicine,viral fever
+V51,2,H2-00005,11/02/2026,Cardiology,viral fever
+V52,2,H2-00005,2026-08-01,Cardiology,high BP
+V53,3,H3-00005,17/10/2025,Cardiology,post op wound care
+V54,3,H3-00005,2025-12-27,Cardiology,pneumonia
+V55,3,H3-00005,2026-01-04,General Medicine,pneumonia
+V56,4,H4-00005,2026-10-15,General Medicine,dengue +ve
+V57,1,H1-00007,13/10/2025,General Medicine,viral fever
+V58,1,H1-00007,01/11/2025,General Medicine,asthma exacerbation
+V59,1,H1-00007,31/10/2025,General Medicine,UTI
+V60,1,H1-00007,16/11/2025,ENT,T2DM uncontrolled
+V61,1,H1-00007,08/11/2026,Cardiology,UTI
+V62,2,H2-00006,2026-07-24,Orthopaedics,post op wound care
+V63,3,H3-00006,2026-05-26,Orthopaedics,T2DM uncontrolled
+V64,3,H3-00006,2026-04-16,Gynaecology,pneumonia
+V65,3,H3-00006,2025-12-25,Gynaecology,asthma exacerbation
+V66,3,H3-00006,2026-02-20,Paediatrics,acute appendicitis
+V67,1,H1-00008,25/12/2025,Gynaecology,UTI
+V68,1,H1-00008,2025-12-22,General Medicine,high BP
+V69,1,H1-00008,2026-07-07,Paediatrics,Typhoid fever
+V70,1,H1-00008,2026-10-15,ENT,dengue +ve
+V71,4,H4-00006,2025-12-14,Cardiology,asthma exacerbation
+V72,1,H1-00009,28-12-2025,Orthopaedics,post op wound care
+V73,1,H1-00009,14/06/2026,ENT,UTI
+V74,1,H1-00009,2026-08-20,Orthopaedics,acute appendicitis
+V75,2,H2-00007,21/08/2026,Cardiology,asthma exacerbation
+V76,2,H2-00007,2025-12-15,Cardiology,renal calculus
+V77,2,H2-00007,08-11-2025,General Medicine,T2DM uncontrolled
+V78,3,H3-00007,2026-09-01,Orthopaedics,high BP
+V79,3,H3-00007,20/06/2026,Paediatrics,# femur
+V80,3,H3-00007,29/07/2026,Cardiology,post op wound care
+V81,3,H3-00007,2026-08-10,Gynaecology,tb suspect
+V82,3,H3-00007,11-01-2026,General Medicine,UTI
+V83,4,H4-00007,2026-02-13,Orthopaedics,renal calculus
+V84,4,H4-00007,03/05/2026,ENT,# femur
+V85,1,H1-00010,2025-12-15,Gynaecology,loose motions / vomiting
+V86,1,H1-00010,2025-11-11,Orthopaedics,loose motions / vomiting
+V87,2,H2-00008,2026-06-10,Cardiology,post op wound care
+V88,2,H2-00008,2026-01-20,General Medicine,acute appendicitis
+V89,3,H3-00008,20-11-2025,Gynaecology,UTI
+V90,4,H4-00008,2025-11-26,General Medicine,UTI
+V91,4,H4-00008,2026-03-10,Cardiology,post op wound care
+V92,1,H1-00011,14/07/2026,Paediatrics,acute appendicitis
+V93,1,H1-00011,05/01/2026,Paediatrics,high BP
+V94,1,H1-00011,24/12/2025,Gynaecology,chest pain ? MI
+V95,2,H2-00009,29/07/2026,Gynaecology,post op wound care
+V96,2,H2-00009,22/01/2026,Cardiology,# femur
+V97,3,H3-00009,2026-07-28,Orthopaedics,T2DM uncontrolled
+V98,3,H3-00009,2026-03-09,Paediatrics,Typhoid fever
+V99,3,H3-00009,2025-12-29,General Medicine,renal calculus
+V100,4,H4-00009,23/04/2026,Cardiology,UTI
+V101,4,H4-00009,24/12/2025,General Medicine,# femur
+V102,1,H1-00012,18-06-2026,Gynaecology,chest pain ? MI
+V103,1,H1-00012,2025-11-17,Gynaecology,dengue +ve
+V104,2,H2-00010,23-07-2026,General Medicine,chest pain ? MI
+V105,3,H3-00010,2026-10-29,ENT,viral fever
+V106,3,H3-00010,2026-04-04,Gynaecology,loose motions / vomiting
+V107,3,H3-00010,2026-06-09,Paediatrics,UTI
+V108,4,H4-00010,2025-10-21,Gynaecology,Typhoid fever
+V109,4,H4-00010,15-02-2026,Cardiology,# femur
+V110,4,H4-00010,2026-02-11,Gynaecology,chest pain ? MI
+V111,4,H4-00010,2026-07-12,General Medicine,asthma exacerbation
+V112,1,H1-00013,25/10/2026,Paediatrics,dengue +ve
+V113,1,H1-00013,2026-02-19,General Medicine,tb suspect
+V114,2,H2-00011,2026-06-19,General Medicine,Typhoid fever
+V115,2,H2-00011,07/11/2025,ENT,UTI
+V116,2,H2-00011,2026-09-10,ENT,dengue +ve
+V117,2,H2-00011,12-08-2026,Orthopaedics,T2DM uncontrolled
+V118,2,H2-00011,26/04/2026,Cardiology,asthma exacerbation
+V119,3,H3-00011,2026-08-19,Cardiology,dengue +ve
+V120,3,H3-00011,25/11/2025,Cardiology,high BP
+V121,3,H3-00011,2025-11-10,ENT,tb suspect
+V122,3,H3-00011,10/11/2025,ENT,viral fever
+V123,4,H4-00011,2025-11-30,Gynaecology,viral fever
+V124,4,H4-00011,12/09/2026,General Medicine,high BP
+V125,4,H4-00011,20/08/2026,General Medicine,acute appendicitis
+V126,4,H4-00011,2026-11-01,ENT,chest pain ? MI
+V127,4,H4-00011,06/05/2026,General Medicine,UTI
+V128,1,H1-00014,2025-10-14,ENT,loose motions / vomiting
+V129,1,H1-00014,2026-11-09,Gynaecology,# femur
+V130,1,H1-00014,04-04-2026,ENT,chest pain ? MI
+V131,1,H1-00014,2026-10-15,Orthopaedics,chest pain ? MI
+V132,1,H1-00014,2026-01-01,General Medicine,# femur
+V133,2,H2-00012,21/06/2026,Paediatrics,# femur
+V134,2,H2-00012,2026-09-20,Paediatrics,renal calculus
+V135,2,H2-00012,05/11/2026,ENT,Typhoid fever
+V136,3,H3-00012,22/07/2026,ENT,dengue +ve
+V137,3,H3-00012,2026-02-18,ENT,UTI
+V138,3,H3-00012,11/07/2026,ENT,loose motions / vomiting
+V139,4,H4-00012,12/07/2026,Orthopaedics,loose motions / vomiting
+V140,4,H4-00012,12/05/2026,General Medicine,tb suspect
+V141,4,H4-00012,15-08-2026,General Medicine,Typhoid fever
+V142,4,H4-00012,22/03/2026,Paediatrics,# femur
+V143,4,H4-00012,2026-09-27,General Medicine,post op wound care
+V144,1,H1-00015,2026-05-27,Gynaecology,viral fever
+V145,1,H1-00015,2026-09-04,General Medicine,asthma exacerbation
+V146,1,H1-00015,2025-11-29,Orthopaedics,acute appendicitis
+V147,1,H1-00015,2026-05-03,Cardiology,pneumonia
+V148,2,H2-00013,16/10/2026,Cardiology,T2DM uncontrolled
+V149,2,H2-00013,20/05/2026,Paediatrics,Typhoid fever
+V150,3,H3-00013,2026-10-03,Gynaecology,Typhoid fever
+V151,3,H3-00013,2026-10-24,Paediatrics,pneumonia
+V152,3,H3-00013,2026-08-28,Orthopaedics,pneumonia
+V153,4,H4-00013,2025-12-10,Paediatrics,UTI
+V154,4,H4-00013,2026-04-19,Gynaecology,chest pain ? MI
+V155,4,H4-00013,2025-10-24,ENT,dengue +ve
+V156,4,H4-00013,18/04/2026,General Medicine,dengue +ve
+V157,1,H1-00016,2026-08-11,Paediatrics,high BP
+V158,1,H1-00016,2026-01-09,Orthopaedics,tb suspect
+V159,1,H1-00016,01/12/2025,Gynaecology,# femur
+V160,1,H1-00016,2025-12-21,Orthopaedics,chest pain ? MI
+V161,2,H2-00014,2026-11-11,Orthopaedics,acute appendicitis
+V162,2,H2-00014,2025-11-04,Cardiology,# femur
+V163,2,H2-00014,2026-02-19,Gynaecology,tb suspect
+V164,2,H2-00015,2026-05-25,General Medicine,chest pain ? MI
+V165,2,H2-00015,2025-10-16,Gynaecology,post op wound care
+V166,2,H2-00015,2026-04-24,Gynaecology,T2DM uncontrolled
+V167,3,H3-00014,11-10-2026,ENT,UTI
+V168,3,H3-00014,2025-10-26,Orthopaedics,dengue +ve
+V169,3,H3-00014,2026-09-23,ENT,acute appendicitis
+V170,4,H4-00014,29/07/2026,General Medicine,dengue +ve
+V171,4,H4-00014,18/09/2026,General Medicine,loose motions / vomiting
+V172,4,H4-00014,23-07-2026,Gynaecology,high BP
+V173,1,H1-00017,30-11-2025,ENT,# femur
+V174,1,H1-00017,2026-05-11,ENT,pneumonia
+V175,1,H1-00017,2026-08-03,Orthopaedics,asthma exacerbation
+V176,1,H1-00017,31-01-2026,Orthopaedics,# femur
+V177,2,H2-00016,2026-04-08,Cardiology,UTI
+V178,2,H2-00016,11-02-2026,General Medicine,acute appendicitis
+V179,3,H3-00015,2026-09-06,Paediatrics,asthma exacerbation
+V180,3,H3-00015,2026-06-01,Cardiology,viral fever
+V181,3,H3-00015,19/09/2026,Paediatrics,high BP
+V182,3,H3-00015,2026-05-01,General Medicine,acute appendicitis
+V183,3,H3-00015,2025-12-02,Cardiology,UTI
+V184,4,H4-00015,2026-07-05,ENT,Typhoid fever
+V185,4,H4-00015,2026-05-09,Paediatrics,renal calculus
+V186,4,H4-00015,2026-03-21,General Medicine,# femur
+V187,4,H4-00015,2026-10-31,General Medicine,tb suspect
+V188,1,H1-00018,21-06-2026,Cardiology,UTI
+V189,1,H1-00018,2026-05-15,Orthopaedics,renal calculus
+V190,1,H1-00018,19/03/2026,ENT,asthma exacerbation
+V191,1,H1-00018,25/06/2026,Paediatrics,acute appendicitis
+V192,1,H1-00018,28/01/2026,Orthopaedics,# femur
+V193,2,H2-00017,29/12/2025,Paediatrics,dengue +ve
+V194,2,H2-00017,11/11/2025,Orthopaedics,tb suspect
+V195,2,H2-00017,2026-05-18,Cardiology,pneumonia
+V196,3,H3-00016,05/11/2026,Orthopaedics,asthma exacerbation
+V197,3,H3-00016,08/05/2026,Cardiology,tb suspect
+V198,4,H4-00016,2026-04-15,ENT,dengue +ve
+V199,1,H1-00019,17-10-2026,ENT,renal calculus
+V200,1,H1-00019,2026-01-07,General Medicine,Typhoid fever
+V201,1,H1-00019,19-04-2026,Paediatrics,asthma exacerbation
+V202,1,H1-00019,12/10/2026,Cardiology,viral fever
+V203,1,H1-00019,2026-01-09,Cardiology,post op wound care
+V204,2,H2-00018,15/03/2026,Orthopaedics,UTI
+V205,2,H2-00018,2026-06-22,Orthopaedics,T2DM uncontrolled
+V206,3,H3-00017,22/04/2026,Cardiology,high BP
+V207,3,H3-00017,2026-10-19,Paediatrics,UTI
+V208,3,H3-00017,2026-03-11,Orthopaedics,Typhoid fever
+V209,3,H3-00017,2026-03-06,General Medicine,# femur
+V210,3,H3-00017,25/10/2026,Gynaecology,acute appendicitis
+V211,4,H4-00017,2025-11-18,Cardiology,asthma exacerbation
+V212,4,H4-00017,2026-10-28,Gynaecology,dengue +ve
+V213,4,H4-00017,21-02-2026,Cardiology,chest pain ? MI
+V214,4,H4-00017,03-11-2026,Gynaecology,acute appendicitis
+V215,1,H1-00020,12/10/2026,General Medicine,renal calculus
+V216,1,H1-00020,2025-11-03,Gynaecology,T2DM uncontrolled
+V217,1,H1-00020,2026-10-18,General Medicine,renal calculus
+V218,2,H2-00019,2026-05-21,Gynaecology,viral fever
+V219,2,H2-00019,2026-07-06,ENT,acute appendicitis
+V220,3,H3-00018,01-08-2026,Orthopaedics,T2DM uncontrolled
+V221,3,H3-00018,2025-12-04,Gynaecology,renal calculus
+V222,3,H3-00018,14/02/2026,Paediatrics,loose motions / vomiting
+V223,4,H4-00018,19-04-2026,Orthopaedics,UTI
+V224,4,H4-00018,18-01-2026,Orthopaedics,dengue +ve
+V225,4,H4-00018,01/08/2026,Cardiology,viral fever
+V226,4,H4-00018,23/02/2026,ENT,acute appendicitis
+V227,1,H1-00021,2026-05-21,General Medicine,asthma exacerbation
+V228,1,H1-00021,02/04/2026,General Medicine,# femur
+V229,1,H1-00021,20-08-2026,General Medicine,viral fever
+V230,2,H2-00020,08/10/2026,Orthopaedics,viral fever
+V231,2,H2-00020,2026-01-12,Paediatrics,asthma exacerbation
+V232,2,H2-00020,2025-12-22,Cardiology,UTI
+V233,2,H2-00020,29/01/2026,Paediatrics,chest pain ? MI
+V234,2,H2-00020,27/03/2026,Cardiology,asthma exacerbation
+V235,3,H3-00019,2026-03-05,General Medicine,chest pain ? MI
+V236,3,H3-00019,2025-12-21,Paediatrics,UTI
+V237,3,H3-00019,29-01-2026,General Medicine,UTI
+V238,3,H3-00019,2026-04-23,General Medicine,acute appendicitis
+V239,3,H3-00019,2026-04-04,Cardiology,# femur
+V240,4,H4-00019,2026-06-28,Paediatrics,# femur
+V241,4,H4-00019,2026-07-16,ENT,UTI
+V242,1,H1-00022,09/03/2026,Orthopaedics,high BP
+V243,1,H1-00022,2026-09-13,ENT,chest pain ? MI
+V244,4,H4-00020,16/12/2025,Cardiology,high BP
+V245,4,H4-00020,2026-03-28,Orthopaedics,UTI
+V246,4,H4-00020,14/11/2025,Paediatrics,asthma exacerbation
+V247,4,H4-00020,09/11/2025,ENT,Typhoid fever
+V248,4,H4-00020,13/11/2025,Paediatrics,renal calculus
+V249,2,H2-00021,2026-05-21,Gynaecology,chest pain ? MI
+V250,2,H2-00021,2025-11-04,Cardiology,UTI
+V251,2,H2-00021,2026-05-28,ENT,acute appendicitis
+V252,3,H3-00020,2026-07-13,Orthopaedics,# femur
+V253,3,H3-00020,2026-03-05,Orthopaedics,UTI
+V254,3,H3-00020,28/09/2026,General Medicine,acute appendicitis
+V255,4,H4-00021,2026-09-17,General Medicine,renal calculus
+V256,1,H1-00023,2026-01-28,Cardiology,viral fever
+V257,1,H1-00023,2026-05-26,Orthopaedics,chest pain ? MI
+V258,1,H1-00023,27-08-2026,Gynaecology,Typhoid fever
+V259,1,H1-00023,2025-11-19,Cardiology,viral fever
+V260,2,H2-00022,07-08-2026,Paediatrics,chest pain ? MI
+V261,2,H2-00022,2025-11-15,Gynaecology,viral fever
+V262,3,H3-00021,10-02-2026,ENT,# femur
+V263,3,H3-00021,2026-01-09,General Medicine,# femur
+V264,3,H3-00021,2026-06-18,ENT,high BP
+V265,3,H3-00021,2026-08-18,General Medicine,# femur
+V266,3,H3-00021,05/06/2026,General Medicine,UTI
+V267,4,H4-00022,2026-02-14,Paediatrics,Typhoid fever
+V268,1,H1-00024,2026-09-08,Cardiology,acute appendicitis
+V269,1,H1-00024,2025-12-09,Gynaecology,chest pain ? MI
+V270,1,H1-00024,18/11/2025,ENT,loose motions / vomiting
+V271,1,H1-00024,2026-06-24,Gynaecology,acute appendicitis
+V272,1,H1-00024,2026-07-30,Orthopaedics,Typhoid fever
+V273,2,H2-00023,28/05/2026,ENT,acute appendicitis
+V274,2,H2-00023,24-07-2026,General Medicine,post op wound care
+V275,3,H3-00022,2026-05-27,Cardiology,renal calculus
+V276,4,H4-00023,2026-01-13,ENT,high BP
+V277,4,H4-00023,2025-12-25,Orthopaedics,high BP
+V278,4,H4-00023,08/10/2026,Gynaecology,chest pain ? MI
+V279,4,H4-00023,17/06/2026,Orthopaedics,post op wound care
+V280,1,H1-00025,03/07/2026,Cardiology,tb suspect
+V281,1,H1-00025,2025-12-09,Gynaecology,tb suspect
+V282,2,H2-00024,2026-07-11,Paediatrics,post op wound care
+V283,3,H3-00023,14/10/2025,General Medicine,dengue +ve
+V284,4,H4-00024,04/11/2025,Orthopaedics,UTI
+V285,4,H4-00024,19/06/2026,Paediatrics,pneumonia
+V286,4,H4-00024,2026-07-21,Paediatrics,viral fever
+V287,4,H4-00024,28/10/2026,Paediatrics,UTI
+V288,1,H1-00026,17/09/2026,ENT,chest pain ? MI
+V289,1,H1-00026,2026-04-13,ENT,T2DM uncontrolled
+V290,1,H1-00026,08/04/2026,General Medicine,T2DM uncontrolled
+V291,1,H1-00026,2025-11-05,Cardiology,# femur
+V292,1,H1-00026,07/06/2026,Paediatrics,T2DM uncontrolled
+V293,2,H2-00025,2026-02-03,Orthopaedics,# femur
+V294,2,H2-00025,24-02-2026,General Medicine,UTI
+V295,2,H2-00025,2026-11-09,Gynaecology,loose motions / vomiting
+V296,2,H2-00025,23-09-2026,ENT,viral fever
+V297,2,H2-00025,2026-05-01,Paediatrics,Typhoid fever
+V298,3,H3-00024,08-09-2026,Cardiology,# femur
+V299,3,H3-00024,17/11/2025,ENT,high BP
+V300,3,H3-00024,2026-10-26,Cardiology,high BP
+V301,4,H4-00025,2026-07-05,Cardiology,Typhoid fever
+V302,1,H1-00027,2026-08-02,General Medicine,acute appendicitis
+V303,1,H1-00027,09/05/2026,Gynaecology,Typhoid fever
+V304,1,H1-00027,2026-03-09,Gynaecology,high BP
+V305,1,H1-00027,2026-08-21,ENT,dengue +ve
+V306,2,H2-00026,2025-10-14,ENT,# femur
+V307,2,H2-00026,2025-10-31,Paediatrics,renal calculus
+V308,3,H3-00025,2026-10-14,Gynaecology,T2DM uncontrolled
+V309,3,H3-00025,31-03-2026,Cardiology,viral fever
+V310,3,H3-00025,29/04/2026,Cardiology,UTI
+V311,3,H3-00025,22/06/2026,Gynaecology,dengue +ve
+V312,3,H3-00025,2026-10-08,General Medicine,loose motions / vomiting
+V313,1,H1-00028,2026-02-10,Cardiology,tb suspect
+V314,1,H1-00028,2026-10-27,ENT,T2DM uncontrolled
+V315,1,H1-00028,2026-05-10,Gynaecology,acute appendicitis
+V316,1,H1-00028,2026-03-03,Orthopaedics,viral fever
+V317,1,H1-00028,07/03/2026,Cardiology,chest pain ? MI
+V318,4,H4-00026,2026-01-23,Orthopaedics,T2DM uncontrolled
+V319,4,H4-00026,2025-11-04,ENT,post op wound care
+V320,1,H1-00029,06/10/2026,Paediatrics,tb suspect
+V321,1,H1-00029,2026-09-13,Cardiology,chest pain ? MI
+V322,1,H1-00029,2026-03-24,ENT,UTI
+V323,1,H1-00029,06/01/2026,Paediatrics,high BP
+V324,1,H1-00029,04/03/2026,Gynaecology,high BP
+V325,2,H2-00027,2026-01-21,Gynaecology,high BP
+V326,2,H2-00027,2026-01-11,Paediatrics,renal calculus
+V327,2,H2-00027,2025-10-16,ENT,loose motions / vomiting
+V328,3,H3-00026,07/11/2026,ENT,loose motions / vomiting
+V329,3,H3-00026,21/10/2025,Orthopaedics,UTI
+V330,3,H3-00026,22-08-2026,ENT,high BP
+V331,3,H3-00026,2026-06-03,General Medicine,# femur
+V332,3,H3-00026,23/05/2026,Orthopaedics,acute appendicitis
+V333,4,H4-00027,2026-02-15,Paediatrics,loose motions / vomiting
+V334,1,H1-00030,2026-08-19,General Medicine,renal calculus
+V335,1,H1-00030,07/10/2026,Gynaecology,renal calculus
+V336,1,H1-00030,2026-05-29,Cardiology,acute appendicitis
+V337,2,H2-00028,08/09/2026,ENT,# femur
+V338,3,H3-00027,25/04/2026,Paediatrics,high BP
+V339,4,H4-00028,10-10-2026,Gynaecology,pneumonia
+V340,4,H4-00028,2026-05-23,Orthopaedics,Typhoid fever
+V341,4,H4-00028,2026-04-14,ENT,loose motions / vomiting
+V342,4,H4-00028,2026-05-08,Orthopaedics,renal calculus
+V343,1,H1-00031,2025-12-10,Cardiology,tb suspect
+V344,2,H2-00029,2026-05-11,Cardiology,T2DM uncontrolled
+V345,3,H3-00028,24/05/2026,Paediatrics,viral fever
+V346,3,H3-00028,2026-10-16,General Medicine,viral fever
+V347,3,H3-00028,07/07/2026,General Medicine,post op wound care
+V348,3,H3-00028,2025-11-03,General Medicine,UTI
+V349,4,H4-00029,04/05/2026,Paediatrics,high BP
+V350,4,H4-00029,2025-10-30,Cardiology,tb suspect
+V351,4,H4-00029,2025-12-30,Cardiology,post op wound care
+V352,3,H3-00029,2026-03-06,Gynaecology,Typhoid fever
+V353,3,H3-00029,16-10-2025,ENT,acute appendicitis
+V354,3,H3-00029,2026-08-21,Paediatrics,# femur
+V355,1,H1-00032,22-05-2026,Orthopaedics,UTI
+V356,1,H1-00032,02/01/2026,Orthopaedics,loose motions / vomiting
+V357,1,H1-00032,2026-06-04,Orthopaedics,viral fever
+V358,2,H2-00030,2026-08-26,ENT,pneumonia
+V359,2,H2-00030,2026-07-17,Gynaecology,# femur
+V360,3,H3-00030,29/03/2026,General Medicine,loose motions / vomiting
+V361,3,H3-00030,2026-04-02,Cardiology,asthma exacerbation
+V362,3,H3-00030,2026-09-18,Orthopaedics,tb suspect
+V363,4,H4-00030,2025-12-25,Cardiology,post op wound care
+V364,4,H4-00030,2025-11-18,Gynaecology,Typhoid fever
+V365,1,H1-00033,08/12/2025,Cardiology,loose motions / vomiting
+V366,1,H1-00033,10/02/2026,Paediatrics,high BP
+V367,2,H2-00031,05/04/2026,Gynaecology,T2DM uncontrolled
+V368,2,H2-00031,2025-12-10,Gynaecology,pneumonia
+V369,2,H2-00031,28/02/2026,Orthopaedics,Typhoid fever
+V370,1,H1-00034,25/09/2026,Gynaecology,renal calculus
+V371,1,H1-00034,2026-04-19,General Medicine,Typhoid fever
+V372,1,H1-00034,23/11/2025,Gynaecology,high BP
+V373,3,H3-00031,2026-07-13,Cardiology,chest pain ? MI
+V374,3,H3-00031,17/09/2026,ENT,Typhoid fever
+V375,3,H3-00031,14/02/2026,Orthopaedics,renal calculus
+V376,3,H3-00031,12/12/2025,General Medicine,T2DM uncontrolled
+V377,4,H4-00031,2026-10-10,ENT,tb suspect
+V378,4,H4-00031,2026-06-20,ENT,post op wound care
+V379,1,H1-00035,12/01/2026,Cardiology,high BP
+V380,1,H1-00035,12-09-2026,Cardiology,viral fever
+V381,2,H2-00032,02/11/2025,Orthopaedics,renal calculus
+V382,3,H3-00032,11/01/2026,Orthopaedics,asthma exacerbation
+V383,3,H3-00032,17/01/2026,ENT,# femur
+V384,3,H3-00032,11/11/2026,General Medicine,dengue +ve
+V385,3,H3-00032,2026-10-02,Cardiology,viral fever
+V386,3,H3-00032,25/05/2026,Gynaecology,T2DM uncontrolled
+V387,4,H4-00032,10/07/2026,General Medicine,chest pain ? MI
+V388,4,H4-00032,02/06/2026,Cardiology,acute appendicitis
+V389,4,H4-00032,2026-04-06,Paediatrics,renal calculus
+V390,4,H4-00032,17/08/2026,General Medicine,Typhoid fever
+V391,4,H4-00032,13/11/2026,ENT,loose motions / vomiting
+V392,1,H1-00036,09/10/2026,Cardiology,viral fever
+V393,1,H1-00036,19/05/2026,Gynaecology,post op wound care
+V394,1,H1-00036,2026-04-13,Paediatrics,Typhoid fever
+V395,1,H1-00036,03-03-2026,ENT,tb suspect
+V396,1,H1-00036,09-06-2026,Paediatrics,acute appendicitis
+V397,2,H2-00033,2026-01-05,General Medicine,chest pain ? MI
+V398,3,H3-00033,2025-12-24,ENT,dengue +ve
+V399,3,H3-00033,2026-02-09,Paediatrics,T2DM uncontrolled
+V400,4,H4-00033,22/10/2026,Cardiology,loose motions / vomiting
+V401,4,H4-00033,20-01-2026,Paediatrics,acute appendicitis
+V402,4,H4-00033,2026-08-02,Cardiology,viral fever
+V403,3,H3-00034,2026-02-01,Gynaecology,post op wound care
+V404,3,H3-00034,20-03-2026,Paediatrics,viral fever
+V405,1,H1-00037,2026-05-22,Gynaecology,acute appendicitis
+V406,1,H1-00037,13-05-2026,Gynaecology,# femur
+V407,1,H1-00037,2026-02-20,ENT,loose motions / vomiting
+V408,1,H1-00037,2025-10-26,Gynaecology,acute appendicitis
+V409,1,H1-00037,07/04/2026,Orthopaedics,tb suspect
+V410,2,H2-00034,27-02-2026,Paediatrics,# femur
+V411,3,H3-00035,2026-03-29,General Medicine,T2DM uncontrolled
+V412,3,H3-00035,17/10/2026,Gynaecology,T2DM uncontrolled
+V413,3,H3-00035,24/12/2025,Paediatrics,pneumonia
+V414,4,H4-00034,08/09/2026,Gynaecology,high BP
+V415,4,H4-00034,30/11/2025,Paediatrics,dengue +ve
+V416,1,H1-00038,11/08/2026,ENT,chest pain ? MI
+V417,1,H1-00038,2026-05-23,Gynaecology,pneumonia
+V418,1,H1-00038,12/06/2026,Paediatrics,post op wound care
+V419,2,H2-00035,2026-06-01,Orthopaedics,# femur
+V420,2,H2-00035,2026-06-15,Orthopaedics,high BP
+V421,2,H2-00036,2026-10-14,Paediatrics,dengue +ve
+V422,3,H3-00036,29/12/2025,Orthopaedics,T2DM uncontrolled
+V423,3,H3-00036,22/07/2026,Paediatrics,viral fever
+V424,3,H3-00036,2025-10-25,General Medicine,pneumonia
+V425,3,H3-00036,04/05/2026,Orthopaedics,viral fever
+V426,3,H3-00036,25/12/2025,Gynaecology,Typhoid fever
+V427,4,H4-00035,2026-08-24,ENT,post op wound care
+V428,1,H1-00039,2026-06-08,Gynaecology,loose motions / vomiting
+V429,1,H1-00039,2026-10-07,ENT,UTI
+V430,1,H1-00039,2026-09-22,General Medicine,pneumonia
+V431,1,H1-00039,2026-09-06,ENT,renal calculus
+V432,2,H2-00037,02-11-2026,Paediatrics,pneumonia
+V433,3,H3-00037,2025-10-29,Cardiology,asthma exacerbation
+V434,3,H3-00037,2025-11-25,Orthopaedics,asthma exacerbation
+V435,4,H4-00036,2026-04-30,Gynaecology,tb suspect
+V436,1,H1-00040,2025-10-15,Cardiology,# femur
+V437,1,H1-00040,2026-09-21,Cardiology,renal calculus
+V438,1,H1-00040,27-07-2026,Paediatrics,asthma exacerbation
+V439,2,H2-00038,2026-02-16,Orthopaedics,loose motions / vomiting
+V440,3,H3-00038,2026-06-08,General Medicine,high BP
+V441,4,H4-00037,10-04-2026,Orthopaedics,UTI
+V442,1,H1-00041,05/08/2026,Paediatrics,# femur
+V443,1,H1-00041,2026-09-29,General Medicine,viral fever
+V444,1,H1-00041,2025-11-21,Orthopaedics,acute appendicitis
+V445,2,H2-00039,2026-03-03,Cardiology,# femur
+V446,2,H2-00039,2026-11-03,Orthopaedics,chest pain ? MI
+V447,2,H2-00039,2026-07-02,Paediatrics,T2DM uncontrolled
+V448,3,H3-00039,2026-01-26,Cardiology,chest pain ? MI
+V449,3,H3-00039,02/11/2026,Orthopaedics,Typhoid fever
+V450,4,H4-00038,2025-11-17,Orthopaedics,loose motions / vomiting
+V451,4,H4-00038,20-07-2026,General Medicine,high BP
+V452,4,H4-00038,2026-03-02,Gynaecology,post op wound care
+V453,1,H1-00042,2026-05-09,Gynaecology,acute appendicitis
+V454,1,H1-00042,21/08/2026,Orthopaedics,asthma exacerbation
+V455,2,H2-00040,26-10-2026,Cardiology,pneumonia
+V456,2,H2-00040,01/09/2026,Paediatrics,tb suspect
+V457,2,H2-00040,16/07/2026,Orthopaedics,acute appendicitis
+V458,3,H3-00040,2026-06-13,ENT,viral fever
+V459,3,H3-00040,2026-05-21,General Medicine,high BP
+V460,3,H3-00040,01/03/2026,Cardiology,asthma exacerbation
+V461,3,H3-00040,17-01-2026,Cardiology,post op wound care
+V462,3,H3-00040,2026-01-19,Paediatrics,loose motions / vomiting
+V463,4,H4-00039,2026-01-19,General Medicine,asthma exacerbation
+V464,1,H1-00043,2026-07-21,General Medicine,Typhoid fever
+V465,1,H1-00043,29/09/2026,Orthopaedics,asthma exacerbation
+V466,1,H1-00043,2026-07-10,Gynaecology,high BP
+V467,2,H2-00041,10/06/2026,ENT,post op wound care
+V468,2,H2-00041,2025-11-28,Paediatrics,UTI
+V469,2,H2-00041,2026-05-22,Gynaecology,post op wound care
+V470,2,H2-00041,2026-04-29,Gynaecology,chest pain ? MI
+V471,3,H3-00041,2025-10-28,ENT,T2DM uncontrolled
+V472,4,H4-00040,2026-10-12,General Medicine,Typhoid fever
+V473,4,H4-00040,07-02-2026,Paediatrics,# femur
+V474,4,H4-00040,2026-09-16,Paediatrics,pneumonia
+V475,4,H4-00040,2026-10-02,ENT,chest pain ? MI
+V476,4,H4-00040,2026-04-26,ENT,# femur
+V477,1,H1-00044,2025-12-15,Gynaecology,Typhoid fever
+V478,1,H1-00044,12/08/2026,Paediatrics,Typhoid fever
+V479,1,H1-00044,2025-11-20,ENT,# femur
+V480,1,H1-00044,16-10-2026,Cardiology,tb suspect
+V481,2,H2-00042,2026-04-05,Gynaecology,acute appendicitis
+V482,2,H2-00042,2026-11-07,Cardiology,# femur
+V483,2,H2-00042,2025-11-06,Orthopaedics,high BP
+V484,3,H3-00042,2026-02-07,Cardiology,chest pain ? MI
+V485,3,H3-00042,2025-10-18,Gynaecology,asthma exacerbation
+V486,3,H3-00042,05/08/2026,Orthopaedics,T2DM uncontrolled
+V487,4,H4-00041,2026-05-15,ENT,acute appendicitis
+V488,4,H4-00041,2026-03-18,General Medicine,pneumonia
+V489,4,H4-00041,02-07-2026,ENT,T2DM uncontrolled
+V490,4,H4-00041,2026-09-29,Cardiology,viral fever
+V491,4,H4-00041,2026-09-08,Paediatrics,post op wound care
+V492,1,H1-00045,2026-04-21,Cardiology,T2DM uncontrolled
+V493,2,H2-00043,04/04/2026,Cardiology,T2DM uncontrolled
+V494,2,H2-00043,2025-12-07,Orthopaedics,tb suspect
+V495,2,H2-00043,2026-07-08,Cardiology,post op wound care
+V496,2,H2-00043,2026-05-31,Orthopaedics,tb suspect
+V497,2,H2-00043,2025-12-03,Paediatrics,T2DM uncontrolled
+V498,3,H3-00043,02/12/2025,ENT,T2DM uncontrolled
+V499,3,H3-00043,13-02-2026,Gynaecology,UTI
+V500,3,H3-00043,2025-12-01,Cardiology,chest pain ? MI
+V501,3,H3-00043,15/02/2026,Paediatrics,renal calculus
+V502,3,H3-00043,14/07/2026,Gynaecology,acute appendicitis
+V503,4,H4-00042,2026-07-06,ENT,tb suspect
+V504,4,H4-00042,2026-09-06,Orthopaedics,# femur
+V505,4,H4-00042,01-06-2026,Orthopaedics,high BP
+V506,4,H4-00042,2026-11-05,Gynaecology,dengue +ve
+V507,1,H1-00046,19/04/2026,Cardiology,UTI
+V508,1,H1-00046,2026-05-23,Paediatrics,high BP
+V509,1,H1-00046,23/09/2026,Gynaecology,Typhoid fever
+V510,1,H1-00046,15/10/2025,Gynaecology,chest pain ? MI
+V511,2,H2-00044,14/04/2026,Orthopaedics,tb suspect
+V512,2,H2-00044,2026-04-18,Orthopaedics,acute appendicitis
+V513,2,H2-00044,2025-11-24,Paediatrics,high BP
+V514,2,H2-00044,2026-06-11,General Medicine,post op wound care
+V515,3,H3-00044,2025-11-10,Paediatrics,asthma exacerbation
+V516,4,H4-00043,19/09/2026,Gynaecology,UTI
+V517,4,H4-00043,2026-11-07,Cardiology,viral fever
+V518,4,H4-00043,2026-01-04,General Medicine,tb suspect
+V519,4,H4-00043,2026-11-06,Paediatrics,high BP
+V520,4,H4-00043,2026-03-30,Cardiology,acute appendicitis
+V521,1,H1-00047,18/09/2026,Cardiology,renal calculus
+V522,1,H1-00047,06-09-2026,Paediatrics,Typhoid fever
+V523,2,H2-00045,2026-01-16,ENT,asthma exacerbation
+V524,2,H2-00045,12/10/2026,General Medicine,chest pain ? MI
+V525,2,H2-00045,13/02/2026,Gynaecology,# femur
+V526,2,H2-00045,18/08/2026,General Medicine,chest pain ? MI
+V527,3,H3-00045,30/01/2026,Orthopaedics,tb suspect
+V528,3,H3-00045,2026-04-01,Gynaecology,pneumonia
+V529,3,H3-00045,2026-09-03,General Medicine,renal calculus
+V530,4,H4-00044,2026-10-19,General Medicine,asthma exacerbation
+V531,4,H4-00044,25/09/2026,Paediatrics,Typhoid fever
+V532,4,H4-00044,2026-07-21,Cardiology,loose motions / vomiting
+V533,1,H1-00048,2026-09-09,Orthopaedics,post op wound care
+V534,1,H1-00048,28-04-2026,Orthopaedics,renal calculus
+V535,2,H2-00046,05/10/2026,ENT,asthma exacerbation
+V536,2,H2-00047,2026-08-06,ENT,dengue +ve
+V537,2,H2-00047,2025-12-19,ENT,UTI
+V538,2,H2-00047,11-11-2026,Paediatrics,high BP
+V539,2,H2-00047,04/02/2026,Gynaecology,tb suspect
+V540,3,H3-00046,03/03/2026,Gynaecology,# femur
+V541,3,H3-00046,2025-10-22,Gynaecology,viral fever
+V542,3,H3-00046,06/06/2026,Paediatrics,tb suspect
+V543,4,H4-00045,2026-05-20,Gynaecology,asthma exacerbation
+V544,1,H1-00049,15-03-2026,Orthopaedics,renal calculus
+V545,1,H1-00049,08/01/2026,Paediatrics,asthma exacerbation
+V546,2,H2-00048,20/05/2026,ENT,tb suspect
+V547,2,H2-00048,29/06/2026,ENT,pneumonia
+V548,2,H2-00048,2026-11-01,Orthopaedics,loose motions / vomiting
+V549,3,H3-00047,14/03/2026,ENT,loose motions / vomiting
+V550,3,H3-00047,24/10/2025,Cardiology,pneumonia
+V551,3,H3-00047,10-01-2026,General Medicine,chest pain ? MI
+V552,3,H3-00047,14/02/2026,Gynaecology,UTI
+V553,4,H4-00046,20/05/2026,Orthopaedics,asthma exacerbation
+V554,4,H4-00046,2026-08-06,Orthopaedics,renal calculus
+V555,4,H4-00046,21/06/2026,Orthopaedics,# femur
+V556,4,H4-00046,29/05/2026,Paediatrics,Typhoid fever
+V557,4,H4-00046,2026-01-03,Paediatrics,# femur
+V558,1,H1-00050,2026-05-11,Gynaecology,viral fever
+V559,1,H1-00050,21/12/2025,ENT,asthma exacerbation
+V560,1,H1-00050,2026-06-10,General Medicine,high BP
+V561,1,H1-00050,2025-10-28,ENT,dengue +ve
+V562,2,H2-00049,23-07-2026,Paediatrics,T2DM uncontrolled
+V563,2,H2-00049,08/12/2025,Orthopaedics,post op wound care
+V564,2,H2-00049,11-04-2026,ENT,loose motions / vomiting
+V565,2,H2-00049,2026-02-03,Cardiology,renal calculus
+V566,3,H3-00048,2025-12-09,Gynaecology,viral fever
+V567,4,H4-00047,2026-02-15,Gynaecology,UTI
+V568,1,H1-00051,08/02/2026,General Medicine,Typhoid fever
+V569,1,H1-00051,02/03/2026,Orthopaedics,loose motions / vomiting
+V570,1,H1-00051,29/10/2026,General Medicine,T2DM uncontrolled
+V571,2,H2-00050,31/05/2026,Orthopaedics,Typhoid fever
+V572,2,H2-00050,11/10/2026,Paediatrics,# femur
+V573,3,H3-00049,15/01/2026,Orthopaedics,viral fever
+V574,3,H3-00049,2025-12-24,ENT,tb suspect
+V575,3,H3-00049,05/12/2025,Gynaecology,acute appendicitis
+V576,3,H3-00049,19/07/2026,Gynaecology,tb suspect
+V577,4,H4-00048,2026-06-08,Paediatrics,T2DM uncontrolled
+V578,4,H4-00048,27-10-2025,Orthopaedics,acute appendicitis
+V579,4,H4-00048,04/02/2026,Paediatrics,renal calculus
+V580,4,H4-00048,01/05/2026,Orthopaedics,post op wound care
+V581,4,H4-00048,2025-12-17,Cardiology,acute appendicitis
+V582,1,H1-00052,2026-03-13,ENT,# femur
+V583,1,H1-00052,08/03/2026,Gynaecology,loose motions / vomiting
+V584,1,H1-00052,30/11/2025,Gynaecology,chest pain ? MI
+V585,2,H2-00051,18/06/2026,Orthopaedics,post op wound care
+V586,2,H2-00051,2026-04-14,ENT,tb suspect
+V587,2,H2-00051,16/03/2026,Paediatrics,T2DM uncontrolled
+V588,2,H2-00051,28/08/2026,Orthopaedics,pneumonia
+V589,2,H2-00051,23-03-2026,Orthopaedics,high BP
+V590,3,H3-00050,19/09/2026,Paediatrics,Typhoid fever
+V591,3,H3-00050,08-03-2026,Gynaecology,UTI
+V592,4,H4-00049,11/01/2026,Cardiology,dengue +ve
+V593,4,H4-00049,24/10/2026,Cardiology,tb suspect
+V594,1,H1-00053,2026-05-01,General Medicine,acute appendicitis
+V595,1,H1-00053,06/05/2026,Cardiology,asthma exacerbation
+V596,1,H1-00053,2026-10-28,Orthopaedics,pneumonia
+V597,1,H1-00053,2026-04-15,General Medicine,T2DM uncontrolled
+V598,2,H2-00052,2025-12-27,Orthopaedics,dengue +ve
+V599,2,H2-00052,2026-09-03,Gynaecology,asthma exacerbation
+V600,3,H3-00051,2026-02-10,Gynaecology,acute appendicitis
+V601,3,H3-00051,25/08/2026,Cardiology,loose motions / vomiting
+V602,3,H3-00051,2026-05-09,ENT,post op wound care
+V603,3,H3-00051,18-01-2026,Gynaecology,pneumonia
+V604,4,H4-00050,07/07/2026,Cardiology,renal calculus
+V605,4,H4-00050,16-03-2026,Orthopaedics,asthma exacerbation
+V606,4,H4-00050,2025-12-26,Cardiology,chest pain ? MI
+V607,4,H4-00050,31/01/2026,Orthopaedics,asthma exacerbation
+V608,1,H1-00054,2026-08-17,Paediatrics,post op wound care
+V609,2,H2-00053,28/04/2026,ENT,viral fever
+V610,2,H2-00053,02-08-2026,General Medicine,asthma exacerbation
+V611,2,H2-00053,2026-06-17,ENT,tb suspect
+V612,3,H3-00052,2026-09-01,General Medicine,renal calculus
+V613,4,H4-00051,2026-09-04,Orthopaedics,asthma exacerbation
+V614,4,H4-00051,2025-12-01,Paediatrics,pneumonia
+V615,4,H4-00051,12/06/2026,Cardiology,Typhoid fever
+V616,4,H4-00051,2026-08-02,General Medicine,high BP
+V617,1,H1-00055,17/11/2025,Paediatrics,UTI
+V618,1,H1-00055,2026-08-23,ENT,asthma exacerbation
+V619,2,H2-00054,27/05/2026,Orthopaedics,Typhoid fever
+V620,2,H2-00054,09/03/2026,Orthopaedics,acute appendicitis
+V621,3,H3-00053,2026-02-15,Cardiology,dengue +ve
+V622,3,H3-00053,2026-05-21,Paediatrics,tb suspect
+V623,3,H3-00053,25/10/2025,Paediatrics,pneumonia
+V624,4,H4-00052,2026-02-09,Gynaecology,tb suspect
+V625,4,H4-00052,09/02/2026,General Medicine,viral fever
+V626,4,H4-00052,2026-08-12,Orthopaedics,UTI
+V627,4,H4-00052,01/07/2026,Orthopaedics,chest pain ? MI
+V628,4,H4-00052,16/08/2026,Orthopaedics,T2DM uncontrolled
+V629,2,H2-00055,25/01/2026,ENT,Typhoid fever
+V630,2,H2-00055,21/10/2025,Orthopaedics,# femur
+V631,2,H2-00055,2025-11-30,ENT,high BP
+V632,1,H1-00056,2026-11-13,Paediatrics,dengue +ve
+V633,1,H1-00056,08/12/2025,Gynaecology,post op wound care
+V634,1,H1-00056,22/04/2026,Cardiology,viral fever
+V635,1,H1-00056,2026-02-04,General Medicine,UTI
+V636,2,H2-00056,2026-05-08,Paediatrics,UTI
+V637,2,H2-00056,2026-07-14,General Medicine,pneumonia
+V638,2,H2-00056,2026-01-19,Orthopaedics,pneumonia
+V639,2,H2-00056,12/10/2026,Cardiology,T2DM uncontrolled
+V640,2,H2-00056,27/09/2026,General Medicine,dengue +ve
+V641,3,H3-00054,07/10/2026,Gynaecology,tb suspect
+V642,3,H3-00054,11/12/2025,Cardiology,Typhoid fever
+V643,4,H4-00053,17-03-2026,Gynaecology,# femur
+V644,4,H4-00053,04/10/2026,Gynaecology,UTI
+V645,1,H1-00057,2026-09-17,Gynaecology,Typhoid fever
+V646,1,H1-00057,02/04/2026,Gynaecology,T2DM uncontrolled
+V647,1,H1-00057,2026-07-26,Gynaecology,chest pain ? MI
+V648,1,H1-00057,16/12/2025,General Medicine,post op wound care
+V649,2,H2-00057,2026-01-04,Gynaecology,acute appendicitis
+V650,2,H2-00057,2026-03-15,ENT,chest pain ? MI
+V651,2,H2-00057,2026-08-13,ENT,viral fever
+V652,2,H2-00057,22/01/2026,Gynaecology,loose motions / vomiting
+V653,3,H3-00055,11/11/2026,Gynaecology,UTI
+V654,3,H3-00055,2026-03-09,ENT,chest pain ? MI
+V655,3,H3-00055,2026-10-20,Orthopaedics,chest pain ? MI
+V656,3,H3-00055,15-10-2026,Cardiology,high BP
+V657,3,H3-00055,2026-11-14,Gynaecology,high BP
+V658,4,H4-00054,2026-03-08,Paediatrics,UTI
+V659,4,H4-00054,2026-06-24,General Medicine,chest pain ? MI
+V660,1,H1-00058,11/07/2026,Orthopaedics,loose motions / vomiting
+V661,2,H2-00058,2026-06-13,General Medicine,pneumonia
+V662,2,H2-00058,2025-11-28,Cardiology,loose motions / vomiting
+V663,2,H2-00058,2026-04-26,General Medicine,pneumonia
+V664,2,H2-00058,2026-04-12,Cardiology,T2DM uncontrolled
+V665,3,H3-00056,2026-10-19,Cardiology,high BP
+V666,3,H3-00056,2026-07-08,Paediatrics,asthma exacerbation
+V667,3,H3-00056,2026-04-22,Orthopaedics,high BP
+V668,3,H3-00056,21/06/2026,Gynaecology,chest pain ? MI
+V669,1,H1-00059,2026-03-14,Paediatrics,dengue +ve
+V670,1,H1-00059,2025-11-08,Gynaecology,acute appendicitis
+V671,1,H1-00059,2026-05-30,General Medicine,T2DM uncontrolled
+V672,4,H4-00055,30/12/2025,ENT,viral fever
+V673,1,H1-00060,2026-03-24,ENT,pneumonia
+V674,1,H1-00060,2026-02-06,Cardiology,UTI
+V675,1,H1-00060,2025-10-26,Gynaecology,high BP
+V676,2,H2-00059,2025-11-15,Paediatrics,tb suspect
+V677,2,H2-00059,2026-08-29,Cardiology,T2DM uncontrolled
+V678,2,H2-00059,2025-12-02,Cardiology,tb suspect
+V679,2,H2-00059,2025-12-16,Gynaecology,# femur
+V680,3,H3-00057,11/02/2026,General Medicine,renal calculus
+V681,3,H3-00057,2026-08-27,Paediatrics,high BP
+V682,3,H3-00057,2026-07-09,Orthopaedics,acute appendicitis
+V683,3,H3-00057,11/06/2026,General Medicine,high BP
+V684,4,H4-00056,2026-06-26,Orthopaedics,asthma exacerbation
+V685,4,H4-00056,24/06/2026,Cardiology,Typhoid fever
+V686,1,H1-00061,27/10/2025,Gynaecology,asthma exacerbation
+V687,1,H1-00061,18/08/2026,Gynaecology,acute appendicitis
+V688,2,H2-00060,31/10/2025,Gynaecology,Typhoid fever
+V689,3,H3-00058,2026-03-26,ENT,loose motions / vomiting
+V690,4,H4-00057,2026-03-24,ENT,Typhoid fever
+V691,4,H4-00057,2026-01-16,ENT,chest pain ? MI
+V692,4,H4-00057,2026-02-15,General Medicine,asthma exacerbation
+V693,4,H4-00057,2025-10-28,Paediatrics,acute appendicitis
+V694,4,H4-00057,23/01/2026,Gynaecology,loose motions / vomiting
+V695,1,H1-00062,2026-07-23,ENT,asthma exacerbation
+V696,1,H1-00062,2026-02-04,Orthopaedics,# femur
+V697,1,H1-00062,2026-06-08,ENT,post op wound care
+V698,1,H1-00062,17-10-2025,ENT,pneumonia
+V699,1,H1-00062,2026-05-31,General Medicine,UTI
+V700,2,H2-00061,2026-07-21,Gynaecology,UTI
+V701,2,H2-00061,2026-04-17,ENT,tb suspect
+V702,2,H2-00061,2026-01-17,ENT,UTI
+V703,3,H3-00059,05-10-2026,Cardiology,loose motions / vomiting
+V704,3,H3-00059,2025-10-15,ENT,UTI
+V705,3,H3-00059,2025-12-07,ENT,dengue +ve
+V706,3,H3-00059,17-11-2025,ENT,T2DM uncontrolled
+V707,4,H4-00058,2025-11-30,General Medicine,loose motions / vomiting
+V708,4,H4-00058,2026-02-06,ENT,acute appendicitis
+V709,4,H4-00058,2026-01-24,Gynaecology,Typhoid fever
+V710,4,H4-00058,2026-08-26,ENT,# femur
+V711,4,H4-00058,2026-11-13,Cardiology,loose motions / vomiting
+V712,1,H1-00063,04-11-2026,Paediatrics,UTI
+V713,1,H1-00063,2025-11-07,ENT,asthma exacerbation
+V714,2,H2-00062,25/08/2026,Orthopaedics,acute appendicitis
+V715,2,H2-00062,2026-08-13,Gynaecology,viral fever
+V716,2,H2-00062,18/10/2026,Cardiology,asthma exacerbation
+V717,2,H2-00062,2026-05-21,ENT,renal calculus
+V718,3,H3-00060,26/03/2026,Orthopaedics,renal calculus
+V719,3,H3-00060,2026-09-22,Orthopaedics,post op wound care
+V720,3,H3-00060,2026-03-27,Paediatrics,pneumonia
+V721,3,H3-00060,2025-11-20,ENT,post op wound care
+V722,3,H3-00060,06/05/2026,Gynaecology,asthma exacerbation
+V723,4,H4-00059,2026-02-27,General Medicine,chest pain ? MI
+V724,4,H4-00059,07-12-2025,Paediatrics,loose motions / vomiting
+V725,4,H4-00059,2025-12-29,Gynaecology,loose motions / vomiting
+V726,1,H1-00064,10/03/2026,Paediatrics,post op wound care
+V727,1,H1-00064,22-10-2025,Cardiology,dengue +ve
+V728,2,H2-00063,2026-04-07,Cardiology,high BP
+V729,2,H2-00063,2026-01-30,Paediatrics,high BP
+V730,2,H2-00063,2026-11-08,Cardiology,acute appendicitis
+V731,2,H2-00063,31/12/2025,Cardiology,T2DM uncontrolled
+V732,2,H2-00063,2025-10-11,Orthopaedics,renal calculus
+V733,3,H3-00061,11-11-2026,Orthopaedics,renal calculus
+V734,4,H4-00060,06/12/2025,Cardiology,T2DM uncontrolled
+V735,4,H4-00060,12/11/2026,Orthopaedics,pneumonia
+V736,4,H4-00060,2026-03-28,Gynaecology,renal calculus
+V737,4,H4-00060,2026-07-13,Gynaecology,acute appendicitis
+V738,4,H4-00060,2026-04-16,Orthopaedics,loose motions / vomiting
+V739,1,H1-00065,2026-04-29,Cardiology,chest pain ? MI
+V740,1,H1-00065,25/03/2026,General Medicine,T2DM uncontrolled
+V741,2,H2-00064,30/08/2026,Orthopaedics,Typhoid fever
+V742,3,H3-00062,25-11-2025,ENT,tb suspect
+V743,4,H4-00061,2026-02-28,Cardiology,chest pain ? MI
+V744,1,H1-00066,2026-03-05,Cardiology,asthma exacerbation
+V745,1,H1-00066,19-07-2026,Gynaecology,Typhoid fever
+V746,1,H1-00066,2026-07-27,Gynaecology,post op wound care
+V747,1,H1-00066,05/05/2026,ENT,high BP
+V748,2,H2-00065,16/10/2025,Paediatrics,# femur
+V749,2,H2-00065,2026-04-04,ENT,asthma exacerbation
+V750,2,H2-00065,04/12/2025,ENT,chest pain ? MI
+V751,2,H2-00065,12/11/2026,Cardiology,chest pain ? MI
+V752,3,H3-00063,03/11/2026,Cardiology,viral fever
+V753,3,H3-00063,2026-07-21,Orthopaedics,acute appendicitis
+V754,3,H3-00063,20/09/2026,ENT,loose motions / vomiting
+V755,3,H3-00063,2026-05-20,Paediatrics,renal calculus
+V756,3,H3-00063,29/03/2026,Gynaecology,pneumonia
+V757,4,H4-00062,2025-11-01,General Medicine,dengue +ve
+V758,1,H1-00067,31/05/2026,Gynaecology,acute appendicitis
+V759,1,H1-00067,2026-06-24,Gynaecology,high BP
+V760,1,H1-00067,2026-06-10,General Medicine,asthma exacerbation
+V761,2,H2-00066,03/06/2026,ENT,post op wound care
+V762,3,H3-00064,2026-06-11,General Medicine,asthma exacerbation
+V763,3,H3-00064,2026-02-24,General Medicine,loose motions / vomiting
+V764,3,H3-00064,26/03/2026,Cardiology,high BP
+V765,4,H4-00063,19-06-2026,Paediatrics,pneumonia
+V766,4,H4-00063,25/04/2026,ENT,acute appendicitis
+V767,4,H4-00063,2026-04-19,Cardiology,acute appendicitis
+V768,1,H1-00068,2026-06-25,Orthopaedics,asthma exacerbation
+V769,1,H1-00068,15/12/2025,Cardiology,acute appendicitis
+V770,1,H1-00068,04/01/2026,Cardiology,chest pain ? MI
+V771,1,H1-00068,22-03-2026,Orthopaedics,loose motions / vomiting
+V772,2,H2-00067,2026-08-25,ENT,loose motions / vomiting
+V773,2,H2-00067,2026-10-06,Cardiology,asthma exacerbation
+V774,2,H2-00067,2026-10-16,Orthopaedics,UTI
+V775,3,H3-00065,2026-06-20,ENT,renal calculus
+V776,3,H3-00065,2026-04-28,Paediatrics,post op wound care
+V777,3,H3-00065,2025-12-05,Gynaecology,acute appendicitis
+V778,4,H4-00064,2026-09-20,General Medicine,loose motions / vomiting
+V779,2,H2-00068,17/10/2025,Paediatrics,pneumonia
+V780,2,H2-00068,05/11/2026,Gynaecology,loose motions / vomiting
+V781,2,H2-00068,29/11/2025,General Medicine,tb suspect
+V782,1,H1-00069,2026-03-26,ENT,high BP
+V783,1,H1-00069,2026-09-03,ENT,asthma exacerbation
+V784,1,H1-00069,2026-10-04,ENT,loose motions / vomiting
+V785,1,H1-00069,2026-11-10,ENT,tb suspect
+V786,1,H1-00069,2026-02-25,Cardiology,renal calculus
+V787,2,H2-00069,2025-11-14,Cardiology,pneumonia
+V788,2,H2-00069,10/07/2026,Cardiology,chest pain ? MI
+V789,2,H2-00069,15/04/2026,General Medicine,asthma exacerbation
+V790,2,H2-00069,03/08/2026,ENT,T2DM uncontrolled
+V791,3,H3-00066,13/06/2026,ENT,asthma exacerbation
+V792,3,H3-00066,2026-09-26,Orthopaedics,# femur
+V793,3,H3-00066,15-03-2026,ENT,loose motions / vomiting
+V794,3,H3-00066,2026-03-06,Gynaecology,Typhoid fever
+V795,3,H3-00066,13/07/2026,Cardiology,Typhoid fever
+V796,4,H4-00065,2025-12-02,Paediatrics,pneumonia
+V797,4,H4-00065,2026-03-26,Paediatrics,loose motions / vomiting
+V798,4,H4-00065,18/11/2025,ENT,acute appendicitis
+V799,1,H1-00070,2025-12-11,Gynaecology,loose motions / vomiting
+V800,1,H1-00070,11/09/2026,Orthopaedics,asthma exacerbation
+V801,1,H1-00070,2026-02-26,Cardiology,T2DM uncontrolled
+V802,1,H1-00070,23/03/2026,General Medicine,acute appendicitis
+V803,2,H2-00070,12-11-2026,Gynaecology,tb suspect
+V804,3,H3-00067,2026-10-20,Paediatrics,T2DM uncontrolled
+V805,4,H4-00066,14-01-2026,Orthopaedics,dengue +ve
+V806,4,H4-00066,2026-07-10,Gynaecology,high BP
+V807,4,H4-00066,10-04-2026,Paediatrics,post op wound care
+V808,1,H1-00071,03-11-2026,Gynaecology,Typhoid fever
+V809,1,H1-00071,2025-12-18,ENT,acute appendicitis
+V810,1,H1-00071,2026-09-24,Paediatrics,dengue +ve
+V811,2,H2-00071,2026-09-04,General Medicine,pneumonia
+V812,2,H2-00071,2026-10-30,ENT,tb suspect
+V813,2,H2-00071,2026-05-08,Cardiology,tb suspect
+V814,3,H3-00068,2026-02-28,Paediatrics,pneumonia
+V815,3,H3-00068,2026-11-04,Paediatrics,renal calculus
+V816,4,H4-00067,2026-08-28,Orthopaedics,post op wound care
+V817,4,H4-00067,2026-09-16,Gynaecology,Typhoid fever
+V818,4,H4-00067,2026-09-26,ENT,chest pain ? MI
+V819,4,H4-00067,20/12/2025,Paediatrics,high BP
+V820,4,H4-00067,2025-11-17,Cardiology,high BP
+V821,1,H1-00072,16/06/2026,Paediatrics,asthma exacerbation
+V822,1,H1-00072,2026-04-19,Paediatrics,# femur
+V823,2,H2-00072,2026-02-27,ENT,T2DM uncontrolled
+V824,2,H2-00072,2026-08-09,General Medicine,pneumonia
+V825,2,H2-00072,01/01/2026,ENT,viral fever
+V826,2,H2-00072,2026-09-16,General Medicine,pneumonia
+V827,2,H2-00072,2025-10-24,Paediatrics,pneumonia
+V828,2,H2-00073,2026-03-30,Gynaecology,tb suspect
+V829,2,H2-00073,2026-05-01,ENT,tb suspect
+V830,2,H2-00073,2026-05-14,ENT,tb suspect
+V831,2,H2-00073,2026-11-11,Gynaecology,T2DM uncontrolled
+V832,3,H3-00069,08/03/2026,ENT,viral fever
+V833,3,H3-00069,2026-02-06,Gynaecology,asthma exacerbation
+V834,3,H3-00069,03-05-2026,General Medicine,T2DM uncontrolled
+V835,3,H3-00069,2026-07-14,Gynaecology,tb suspect
+V836,3,H3-00069,2026-07-24,ENT,Typhoid fever
+V837,4,H4-00068,2026-02-27,Paediatrics,renal calculus
+V838,4,H4-00068,2025-11-11,General Medicine,dengue +ve
+V839,1,H1-00073,2026-05-30,Orthopaedics,loose motions / vomiting
+V840,2,H2-00074,11-03-2026,Paediatrics,renal calculus
+V841,3,H3-00070,26/10/2025,Orthopaedics,Typhoid fever
+V842,3,H3-00070,2026-10-26,Gynaecology,tb suspect
+V843,3,H3-00070,2026-09-27,Paediatrics,chest pain ? MI
+V844,3,H3-00070,2025-12-02,Orthopaedics,asthma exacerbation
+V845,4,H4-00069,2026-03-02,General Medicine,high BP
+V846,4,H4-00069,2026-04-19,Gynaecology,asthma exacerbation
+V847,1,H1-00074,13/12/2025,Orthopaedics,loose motions / vomiting
+V848,1,H1-00074,2026-08-06,General Medicine,chest pain ? MI
+V849,1,H1-00074,2026-07-27,Gynaecology,dengue +ve
+V850,1,H1-00074,2025-10-20,Cardiology,dengue +ve
+V851,2,H2-00075,2026-10-04,ENT,viral fever
+V852,2,H2-00075,2026-04-02,Cardiology,renal calculus
+V853,2,H2-00075,2026-04-15,Paediatrics,chest pain ? MI
+V854,2,H2-00075,2025-11-29,Paediatrics,pneumonia
+V855,3,H3-00071,09/01/2026,General Medicine,UTI
+V856,3,H3-00071,13/11/2026,ENT,loose motions / vomiting
+V857,3,H3-00071,2026-02-17,Gynaecology,post op wound care
+V858,4,H4-00070,2025-10-29,Gynaecology,acute appendicitis
+V859,1,H1-00075,14-06-2026,Paediatrics,acute appendicitis
+V860,1,H1-00075,2026-09-05,Gynaecology,loose motions / vomiting
+V861,1,H1-00075,2026-02-16,Cardiology,T2DM uncontrolled
+V862,2,H2-00076,15/06/2026,ENT,tb suspect
+V863,2,H2-00076,2026-02-26,Gynaecology,dengue +ve
+V864,2,H2-00076,2026-02-27,Orthopaedics,acute appendicitis
+V865,3,H3-00072,2026-03-10,Orthopaedics,post op wound care
+V866,3,H3-00072,18-12-2025,Cardiology,Typhoid fever
+V867,3,H3-00072,02/04/2026,Gynaecology,tb suspect
+V868,3,H3-00072,13/10/2026,Cardiology,acute appendicitis
+V869,4,H4-00071,17-01-2026,Gynaecology,acute appendicitis
+V870,4,H4-00071,2026-07-20,Orthopaedics,tb suspect
+V871,4,H4-00071,26/02/2026,General Medicine,loose motions / vomiting
+V872,4,H4-00071,2025-12-08,ENT,post op wound care
+V873,1,H1-00076,2025-11-07,Gynaecology,renal calculus
+V874,1,H1-00076,2026-08-13,Gynaecology,asthma exacerbation
+V875,2,H2-00077,11-04-2026,General Medicine,post op wound care
+V876,2,H2-00077,27-04-2026,ENT,post op wound care
+V877,2,H2-00077,30/11/2025,Paediatrics,Typhoid fever
+V878,3,H3-00073,2025-11-30,Paediatrics,dengue +ve
+V879,4,H4-00072,23-10-2025,Cardiology,loose motions / vomiting
+V880,4,H4-00072,09-10-2026,Orthopaedics,asthma exacerbation
+V881,4,H4-00073,2026-06-27,Orthopaedics,renal calculus
+V882,4,H4-00073,2026-03-02,General Medicine,dengue +ve
+V883,4,H4-00073,2025-10-11,ENT,renal calculus
+V884,4,H4-00073,2026-05-12,ENT,dengue +ve
+V885,1,H1-00077,2026-11-06,Paediatrics,renal calculus
+V886,1,H1-00077,2026-10-23,Orthopaedics,# femur
+V887,1,H1-00077,2026-10-10,Gynaecology,T2DM uncontrolled
+V888,1,H1-00077,2026-05-28,Cardiology,# femur
+V889,1,H1-00077,2026-02-21,ENT,loose motions / vomiting
+V890,2,H2-00078,2026-03-09,ENT,T2DM uncontrolled
+V891,2,H2-00078,2026-04-29,ENT,T2DM uncontrolled
+V892,2,H2-00078,26/08/2026,ENT,Typhoid fever
+V893,3,H3-00074,2026-10-05,Cardiology,acute appendicitis
+V894,3,H3-00074,2026-02-21,Gynaecology,high BP
+V895,3,H3-00074,2026-04-24,Gynaecology,viral fever
+V896,3,H3-00074,2026-03-31,Gynaecology,pneumonia
+V897,3,H3-00074,2026-06-08,ENT,tb suspect
+V898,4,H4-00074,28-02-2026,Cardiology,T2DM uncontrolled
+V899,1,H1-00078,20/11/2025,Cardiology,tb suspect
+V900,1,H1-00078,2025-12-12,Gynaecology,# femur
+V901,1,H1-00078,2026-02-13,Gynaecology,T2DM uncontrolled
+V902,1,H1-00078,2026-09-18,ENT,loose motions / vomiting
+V903,2,H2-00079,11/11/2026,ENT,asthma exacerbation
+V904,2,H2-00079,2026-06-08,Paediatrics,asthma exacerbation
+V905,2,H2-00079,02-01-2026,ENT,high BP
+V906,2,H2-00079,2026-09-16,General Medicine,tb suspect
+V907,3,H3-00075,2026-03-22,Cardiology,renal calculus
+V908,3,H3-00075,23/07/2026,Cardiology,tb suspect
+V909,3,H3-00075,28/11/2025,Orthopaedics,tb suspect
+V910,4,H4-00075,22/04/2026,Cardiology,viral fever
+V911,1,H1-00079,19/05/2026,Orthopaedics,loose motions / vomiting
+V912,1,H1-00079,2026-10-11,Cardiology,Typhoid fever
+V913,2,H2-00080,2026-02-22,Orthopaedics,T2DM uncontrolled
+V914,2,H2-00080,07/08/2026,Gynaecology,pneumonia
+V915,2,H2-00080,30/05/2026,Cardiology,dengue +ve
+V916,2,H2-00080,11/01/2026,Gynaecology,UTI
+V917,3,H3-00076,20/03/2026,Cardiology,post op wound care
+V918,3,H3-00076,01-02-2026,Gynaecology,renal calculus
+V919,3,H3-00076,2026-01-11,ENT,acute appendicitis
+V920,3,H3-00076,27/02/2026,Orthopaedics,asthma exacerbation
+V921,4,H4-00076,2026-04-15,Paediatrics,pneumonia
+V922,1,H1-00080,2025-11-23,Paediatrics,viral fever
+V923,1,H1-00080,28-10-2025,Cardiology,tb suspect
+V924,1,H1-00080,03/04/2026,ENT,UTI
+V925,1,H1-00080,14/05/2026,ENT,loose motions / vomiting
+V926,1,H1-00080,2026-02-04,General Medicine,loose motions / vomiting
+V927,2,H2-00081,14/12/2025,General Medicine,viral fever
+V928,2,H2-00081,27/09/2026,Gynaecology,acute appendicitis
+V929,2,H2-00081,27/06/2026,Orthopaedics,Typhoid fever
+V930,3,H3-00077,18/06/2026,General Medicine,Typhoid fever
+V931,3,H3-00077,25-10-2026,Paediatrics,viral fever
+V932,3,H3-00077,2026-01-02,Cardiology,renal calculus
+V933,4,H4-00077,23-03-2026,Paediatrics,Typhoid fever
+V934,4,H4-00077,2026-02-27,ENT,dengue +ve
+V935,4,H4-00077,15/10/2026,Gynaecology,# femur
+V936,4,H4-00077,28-06-2026,Cardiology,T2DM uncontrolled
+V937,1,H1-00081,27/04/2026,Orthopaedics,Typhoid fever
+V938,1,H1-00081,2026-08-10,Gynaecology,# femur
+V939,2,H2-00082,2026-11-12,General Medicine,high BP
+V940,2,H2-00082,2026-08-15,Cardiology,renal calculus
+V941,2,H2-00082,26/10/2025,Cardiology,tb suspect
+V942,3,H3-00078,2026-01-01,Orthopaedics,loose motions / vomiting
+V943,4,H4-00078,12/03/2026,ENT,viral fever
+V944,4,H4-00078,27/09/2026,Gynaecology,tb suspect
+V945,4,H4-00078,24/11/2025,Paediatrics,T2DM uncontrolled
+V946,4,H4-00078,2026-07-13,Orthopaedics,tb suspect
+V947,1,H1-00082,25-11-2025,Paediatrics,Typhoid fever
+V948,1,H1-00082,25/09/2026,Cardiology,post op wound care
+V949,1,H1-00082,2026-01-29,Gynaecology,high BP
+V950,1,H1-00082,2026-07-10,General Medicine,dengue +ve
+V951,1,H1-00082,2026-04-04,General Medicine,acute appendicitis
+V952,2,H2-00083,2026-06-11,Cardiology,loose motions / vomiting
+V953,2,H2-00083,01/07/2026,General Medicine,pneumonia
+V954,3,H3-00079,2026-06-03,Gynaecology,dengue +ve
+V955,3,H3-00079,25/08/2026,ENT,pneumonia
+V956,3,H3-00079,2025-11-24,ENT,pneumonia
+V957,3,H3-00079,2026-09-11,Gynaecology,chest pain ? MI
+V958,4,H4-00079,30/11/2025,Orthopaedics,loose motions / vomiting
+V959,1,H1-00083,24/05/2026,General Medicine,asthma exacerbation
+V960,2,H2-00084,2026-01-06,Gynaecology,renal calculus
+V961,2,H2-00084,2026-03-27,Cardiology,dengue +ve
+V962,2,H2-00084,25/02/2026,Orthopaedics,pneumonia
+V963,2,H2-00085,2026-09-26,Orthopaedics,chest pain ? MI
+V964,2,H2-00085,04/07/2026,Gynaecology,viral fever
+V965,2,H2-00085,2026-05-26,General Medicine,T2DM uncontrolled
+V966,2,H2-00085,25/06/2026,Gynaecology,dengue +ve
+V967,2,H2-00085,25/06/2026,ENT,loose motions / vomiting
+V968,3,H3-00080,2026-03-02,Cardiology,# femur
+V969,3,H3-00080,2025-11-01,Cardiology,asthma exacerbation
+V970,3,H3-00080,19/10/2026,Cardiology,acute appendicitis
+V971,3,H3-00080,05/11/2025,Gynaecology,viral fever
+V972,3,H3-00080,22/06/2026,Gynaecology,high BP
+V973,4,H4-00080,2026-01-23,Gynaecology,loose motions / vomiting
+V974,4,H4-00080,29-04-2026,General Medicine,UTI
+V975,4,H4-00080,2026-09-27,General Medicine,dengue +ve
+V976,1,H1-00084,24/05/2026,ENT,chest pain ? MI
+V977,1,H1-00084,2026-02-24,ENT,high BP
+V978,1,H1-00084,07-06-2026,Orthopaedics,Typhoid fever
+V979,1,H1-00084,22/03/2026,General Medicine,chest pain ? MI
+V980,2,H2-00086,2026-10-19,Gynaecology,high BP
+V981,2,H2-00086,2025-11-13,Gynaecology,high BP
+V982,2,H2-00086,2026-09-21,Gynaecology,renal calculus
+V983,3,H3-00081,05/06/2026,ENT,dengue +ve
+V984,3,H3-00081,2026-11-12,ENT,asthma exacerbation
+V985,4,H4-00081,2025-10-13,ENT,T2DM uncontrolled
+V986,1,H1-00085,31/10/2026,ENT,viral fever
+V987,1,H1-00085,2026-10-05,General Medicine,acute appendicitis
+V988,1,H1-00085,13-09-2026,General Medicine,UTI
+V989,2,H2-00087,2026-10-07,Gynaecology,dengue +ve
+V990,2,H2-00087,18/10/2025,General Medicine,tb suspect
+V991,2,H2-00087,2026-03-08,General Medicine,pneumonia
+V992,2,H2-00087,20/07/2026,General Medicine,high BP
+V993,2,H2-00087,14/08/2026,Cardiology,asthma exacerbation
+V994,3,H3-00082,03-03-2026,Gynaecology,acute appendicitis
+V995,3,H3-00082,2026-07-02,Paediatrics,tb suspect
+V996,3,H3-00082,02/11/2026,Orthopaedics,dengue +ve
+V997,4,H4-00082,25/06/2026,Orthopaedics,acute appendicitis
+V998,1,H1-00086,2026-04-07,Cardiology,renal calculus
+V999,1,H1-00086,11-02-2026,Cardiology,Typhoid fever
+V1000,1,H1-00087,28/10/2026,General Medicine,# femur
+V1001,1,H1-00087,2026-11-08,ENT,viral fever
+V1002,1,H1-00087,2025-12-11,General Medicine,dengue +ve
+V1003,1,H1-00087,19/03/2026,Cardiology,Typhoid fever
+V1004,1,H1-00087,31-08-2026,ENT,UTI
+V1005,2,H2-00088,10/01/2026,Orthopaedics,renal calculus
+V1006,2,H2-00088,03/11/2025,Paediatrics,tb suspect
+V1007,3,H3-00083,2026-07-14,ENT,UTI
+V1008,3,H3-00083,18-02-2026,Cardiology,pneumonia
+V1009,3,H3-00083,2026-09-01,Paediatrics,Typhoid fever
+V1010,3,H3-00083,2026-03-10,Paediatrics,UTI
+V1011,4,H4-00083,2026-06-25,Orthopaedics,pneumonia
+V1012,4,H4-00083,2026-06-26,Paediatrics,renal calculus
+V1013,4,H4-00083,2025-12-01,Cardiology,dengue +ve
+V1014,1,H1-00088,2025-10-11,General Medicine,asthma exacerbation
+V1015,2,H2-00089,23-08-2026,Paediatrics,UTI
+V1016,2,H2-00089,28/10/2025,Cardiology,viral fever
+V1017,2,H2-00089,28/10/2025,Cardiology,UTI
+V1018,2,H2-00089,2025-11-15,Cardiology,# femur
+V1019,2,H2-00090,2026-07-16,ENT,renal calculus
+V1020,2,H2-00090,28-11-2025,Orthopaedics,dengue +ve
+V1021,2,H2-00090,2026-07-14,Paediatrics,loose motions / vomiting
+V1022,2,H2-00090,22-04-2026,Cardiology,UTI
+V1023,3,H3-00084,07/11/2026,Gynaecology,tb suspect
+V1024,3,H3-00084,2026-01-03,General Medicine,pneumonia
+V1025,4,H4-00084,2026-07-09,Cardiology,chest pain ? MI
+V1026,4,H4-00084,2026-01-20,Orthopaedics,T2DM uncontrolled
+V1027,4,H4-00084,20/03/2026,Gynaecology,high BP
+V1028,4,H4-00084,2026-09-20,General Medicine,asthma exacerbation
+V1029,1,H1-00089,27/12/2025,ENT,post op wound care
+V1030,1,H1-00089,05/10/2026,Cardiology,asthma exacerbation
+V1031,2,H2-00091,2026-07-02,Cardiology,# femur
+V1032,2,H2-00091,27-09-2026,Gynaecology,renal calculus
+V1033,2,H2-00091,2026-11-04,Gynaecology,Typhoid fever
+V1034,2,H2-00091,30/12/2025,General Medicine,pneumonia
+V1035,2,H2-00091,2026-06-10,General Medicine,viral fever
+V1036,3,H3-00085,2026-04-24,Gynaecology,pneumonia
+V1037,4,H4-00085,2026-07-05,Gynaecology,pneumonia
+V1038,4,H4-00085,2026-04-28,General Medicine,post op wound care
+V1039,4,H4-00085,26/10/2026,Orthopaedics,Typhoid fever
+V1040,4,H4-00085,10/09/2026,Cardiology,# femur
+V1041,4,H4-00085,14/01/2026,ENT,Typhoid fever
+V1042,1,H1-00090,2026-11-03,Gynaecology,Typhoid fever
+V1043,1,H1-00090,10/12/2025,Paediatrics,chest pain ? MI
+V1044,1,H1-00090,14/05/2026,ENT,viral fever
+V1045,1,H1-00090,12-03-2026,Orthopaedics,tb suspect
+V1046,2,H2-00092,21-04-2026,General Medicine,Typhoid fever
+V1047,2,H2-00092,01/11/2025,Orthopaedics,dengue +ve
+V1048,2,H2-00092,29/10/2026,Paediatrics,UTI
+V1049,2,H2-00092,2026-05-07,Paediatrics,Typhoid fever
+V1050,3,H3-00086,2026-08-02,Gynaecology,acute appendicitis
+V1051,4,H4-00086,07/05/2026,General Medicine,renal calculus
+V1052,4,H4-00086,2026-02-09,General Medicine,asthma exacerbation
+V1053,4,H4-00086,2026-09-11,Gynaecology,# femur
+V1054,4,H4-00086,2026-05-15,ENT,T2DM uncontrolled
+V1055,1,H1-00091,04/03/2026,Cardiology,loose motions / vomiting
+V1056,1,H1-00091,2026-04-10,General Medicine,renal calculus
+V1057,1,H1-00091,2026-07-26,Paediatrics,dengue +ve
+V1058,2,H2-00093,11/07/2026,General Medicine,pneumonia
+V1059,3,H3-00087,16/02/2026,Paediatrics,asthma exacerbation
+V1060,3,H3-00087,2026-08-02,Orthopaedics,acute appendicitis
+V1061,3,H3-00087,29/10/2025,Cardiology,chest pain ? MI
+V1062,4,H4-00087,2026-10-25,Paediatrics,tb suspect
+V1063,4,H4-00087,14/09/2026,Paediatrics,T2DM uncontrolled
+V1064,1,H1-00092,24/04/2026,Cardiology,loose motions / vomiting
+V1065,1,H1-00092,2025-10-25,Cardiology,tb suspect
+V1066,2,H2-00094,2026-01-24,Cardiology,chest pain ? MI
+V1067,2,H2-00094,16/04/2026,Orthopaedics,pneumonia
+V1068,3,H3-00088,13/07/2026,General Medicine,# femur
+V1069,3,H3-00088,2026-11-12,Cardiology,renal calculus
+V1070,3,H3-00088,25/03/2026,Gynaecology,chest pain ? MI
+V1071,3,H3-00088,12/09/2026,Orthopaedics,asthma exacerbation
+V1072,3,H3-00088,2026-08-05,General Medicine,tb suspect
+V1073,4,H4-00088,2026-06-08,Gynaecology,post op wound care
+V1074,1,H1-00093,28/01/2026,Paediatrics,loose motions / vomiting
+V1075,1,H1-00093,2026-04-21,General Medicine,pneumonia
+V1076,1,H1-00093,02/01/2026,Paediatrics,dengue +ve
+V1077,1,H1-00093,2026-10-17,General Medicine,pneumonia
+V1078,2,H2-00095,2026-07-04,General Medicine,high BP
+V1079,2,H2-00095,25/10/2026,General Medicine,renal calculus
+V1080,2,H2-00095,2025-10-22,Orthopaedics,# femur
+V1081,3,H3-00089,25/11/2025,Cardiology,acute appendicitis
+V1082,3,H3-00089,25/11/2025,ENT,dengue +ve
+V1083,3,H3-00089,18/12/2025,Cardiology,high BP
+V1084,3,H3-00089,2026-09-09,ENT,chest pain ? MI
+V1085,3,H3-00089,2026-04-28,General Medicine,UTI
+V1086,4,H4-00089,2026-04-30,Orthopaedics,# femur
+V1087,4,H4-00089,2026-09-05,ENT,# femur
+V1088,4,H4-00089,2026-05-25,Paediatrics,tb suspect
+V1089,4,H4-00089,2026-08-13,Paediatrics,acute appendicitis
+V1090,4,H4-00089,2026-08-30,Cardiology,pneumonia
+V1091,1,H1-00094,02/12/2025,Orthopaedics,viral fever
+V1092,1,H1-00094,23/01/2026,Paediatrics,acute appendicitis
+V1093,1,H1-00094,19-06-2026,General Medicine,pneumonia
+V1094,1,H1-00094,18/10/2025,Gynaecology,post op wound care
+V1095,1,H1-00094,2026-08-17,General Medicine,acute appendicitis
+V1096,3,H3-00090,2026-02-02,ENT,loose motions / vomiting
+V1097,3,H3-00090,07-01-2026,Cardiology,asthma exacerbation
+V1098,3,H3-00090,2026-02-03,Cardiology,acute appendicitis
+V1099,3,H3-00090,2026-02-26,Paediatrics,T2DM uncontrolled
+V1100,2,H2-00096,20/12/2025,General Medicine,tb suspect
+V1101,2,H2-00096,06/05/2026,Cardiology,high BP
+V1102,2,H2-00096,01/11/2026,General Medicine,chest pain ? MI
+V1103,2,H2-00096,2026-03-22,Orthopaedics,# femur
+V1104,4,H4-00090,15/11/2025,General Medicine,dengue +ve
+V1105,4,H4-00090,2026-01-06,ENT,viral fever
+V1106,4,H4-00090,19/08/2026,Orthopaedics,dengue +ve
+V1107,3,H3-00091,11/11/2025,Cardiology,chest pain ? MI
+V1108,3,H3-00091,2026-03-04,Gynaecology,acute appendicitis
+V1109,3,H3-00091,16/05/2026,ENT,acute appendicitis
+V1110,3,H3-00091,2025-10-25,ENT,# femur
+V1111,3,H3-00091,10/06/2026,Cardiology,renal calculus
+V1112,4,H4-00091,2026-05-04,Cardiology,pneumonia
+V1113,4,H4-00091,2026-04-19,Cardiology,tb suspect
+V1114,4,H4-00091,2026-07-07,General Medicine,renal calculus
+V1115,1,H1-00095,07/06/2026,ENT,acute appendicitis
+V1116,2,H2-00097,23-04-2026,General Medicine,asthma exacerbation
+V1117,3,H3-00092,2026-03-31,Orthopaedics,UTI
+V1118,3,H3-00092,2026-10-02,Cardiology,# femur
+V1119,3,H3-00092,02-03-2026,General Medicine,viral fever
+V1120,4,H4-00092,2026-01-10,Cardiology,acute appendicitis
+V1121,4,H4-00092,29-11-2025,Gynaecology,Typhoid fever
+V1122,4,H4-00092,2026-10-31,ENT,asthma exacerbation
+V1123,4,H4-00092,2026-02-23,Gynaecology,UTI
+V1124,4,H4-00092,29/05/2026,Gynaecology,dengue +ve
+V1125,1,H1-00096,04/09/2026,Gynaecology,viral fever
+V1126,4,H4-00093,2025-10-14,ENT,tb suspect
+V1127,4,H4-00093,2025-11-26,ENT,loose motions / vomiting
+V1128,4,H4-00093,2026-05-25,Cardiology,loose motions / vomiting
+V1129,4,H4-00093,19/08/2026,Gynaecology,dengue +ve
+V1130,2,H2-00098,2026-06-24,Orthopaedics,UTI
+V1131,2,H2-00098,12/06/2026,ENT,T2DM uncontrolled
+V1132,2,H2-00098,2026-07-28,Orthopaedics,asthma exacerbation
+V1133,3,H3-00093,31/07/2026,Gynaecology,viral fever
+V1134,3,H3-00093,2026-07-24,Gynaecology,Typhoid fever
+V1135,3,H3-00093,26-11-2025,Cardiology,tb suspect
+V1136,3,H3-00093,2026-02-14,Paediatrics,UTI
+V1137,3,H3-00093,2026-01-14,Gynaecology,chest pain ? MI
+V1138,4,H4-00094,2025-11-24,Orthopaedics,viral fever
+V1139,4,H4-00094,2026-11-07,ENT,renal calculus
+V1140,4,H4-00094,01/09/2026,General Medicine,renal calculus
+V1141,1,H1-00097,2026-06-21,ENT,pneumonia
+V1142,1,H1-00097,05/07/2026,Paediatrics,post op wound care
+V1143,1,H1-00097,31/10/2025,Orthopaedics,# femur
+V1144,1,H1-00097,2025-11-03,Orthopaedics,tb suspect
+V1145,1,H1-00097,2026-03-27,Orthopaedics,UTI
+V1146,2,H2-00099,10/11/2025,ENT,renal calculus
+V1147,2,H2-00099,2026-09-11,Cardiology,chest pain ? MI
+V1148,2,H2-00099,2026-11-07,Gynaecology,pneumonia
+V1149,2,H2-00099,27/12/2025,Gynaecology,pneumonia
+V1150,2,H2-00099,06/11/2025,Paediatrics,post op wound care
+V1151,3,H3-00094,20/11/2025,Paediatrics,renal calculus
+V1152,4,H4-00095,09/01/2026,ENT,loose motions / vomiting
+V1153,1,H1-00098,2026-05-11,General Medicine,pneumonia
+V1154,1,H1-00098,2026-02-19,Cardiology,viral fever
+V1155,2,H2-00100,2025-11-11,Orthopaedics,renal calculus
+V1156,1,H1-00099,08/09/2026,Paediatrics,asthma exacerbation
+V1157,1,H1-00099,06-09-2026,Cardiology,dengue +ve
+V1158,3,H3-00095,10/07/2026,Cardiology,loose motions / vomiting
+V1159,3,H3-00095,2026-09-30,ENT,tb suspect
+V1160,4,H4-00096,02/06/2026,Gynaecology,UTI
+V1161,4,H4-00096,26/03/2026,Paediatrics,acute appendicitis
+V1162,4,H4-00096,08/10/2026,Cardiology,chest pain ? MI
+V1163,4,H4-00096,08/05/2026,General Medicine,high BP
+V1164,1,H1-00100,19/09/2026,Cardiology,high BP
+V1165,1,H1-00100,2026-03-21,ENT,T2DM uncontrolled
+V1166,1,H1-00100,11/08/2026,Orthopaedics,# femur
+V1167,2,H2-00101,26/06/2026,ENT,viral fever
+V1168,2,H2-00101,2026-01-20,Orthopaedics,acute appendicitis
+V1169,2,H2-00101,2026-11-11,ENT,tb suspect
+V1170,3,H3-00096,2025-11-07,Paediatrics,UTI
+V1171,3,H3-00096,2026-03-14,Paediatrics,loose motions / vomiting
+V1172,3,H3-00096,25/03/2026,General Medicine,viral fever
+V1173,4,H4-00097,02-01-2026,General Medicine,loose motions / vomiting
+V1174,1,H1-00101,20/06/2026,General Medicine,Typhoid fever
+V1175,1,H1-00101,02/11/2025,Cardiology,viral fever
+V1176,2,H2-00102,2026-09-07,Cardiology,asthma exacerbation
+V1177,2,H2-00102,2026-04-20,Cardiology,chest pain ? MI
+V1178,2,H2-00102,2026-03-12,Paediatrics,dengue +ve
+V1179,2,H2-00102,2026-05-12,Cardiology,UTI
+V1180,2,H2-00102,05/02/2026,Cardiology,post op wound care
+V1181,3,H3-00097,2026-08-01,Gynaecology,# femur
+V1182,3,H3-00097,2026-01-09,Cardiology,dengue +ve
+V1183,4,H4-00098,13-02-2026,ENT,viral fever
+V1184,4,H4-00098,2026-03-29,Cardiology,viral fever
+V1185,4,H4-00098,2026-09-04,Orthopaedics,pneumonia
+V1186,1,H1-00102,2026-01-24,Paediatrics,acute appendicitis
+V1187,1,H1-00102,14-08-2026,Cardiology,UTI
+V1188,1,H1-00102,28/03/2026,Paediatrics,acute appendicitis
+V1189,1,H1-00102,2025-11-14,Orthopaedics,loose motions / vomiting
+V1190,2,H2-00103,2026-05-20,Paediatrics,viral fever
+V1191,3,H3-00098,2026-08-16,Cardiology,Typhoid fever
+V1192,3,H3-00098,13/01/2026,Gynaecology,high BP
+V1193,3,H3-00098,03/02/2026,ENT,T2DM uncontrolled
+V1194,3,H3-00098,2025-11-23,Gynaecology,Typhoid fever
+V1195,1,H1-00103,2026-10-07,Orthopaedics,T2DM uncontrolled
+V1196,1,H1-00103,17-09-2026,Paediatrics,T2DM uncontrolled
+V1197,1,H1-00103,26/12/2025,Cardiology,# femur
+V1198,1,H1-00103,03-08-2026,Gynaecology,T2DM uncontrolled
+V1199,1,H1-00103,01/01/2026,Gynaecology,renal calculus
+V1200,4,H4-00099,21/10/2025,General Medicine,post op wound care
+V1201,4,H4-00099,2026-09-11,Orthopaedics,Typhoid fever
+V1202,4,H4-00099,29/08/2026,Gynaecology,renal calculus
+V1203,4,H4-00099,22/08/2026,Cardiology,renal calculus
+V1204,1,H1-00104,2026-03-11,Paediatrics,T2DM uncontrolled
+V1205,1,H1-00104,2026-03-01,Paediatrics,dengue +ve
+V1206,2,H2-00104,14/09/2026,Gynaecology,asthma exacerbation
+V1207,2,H2-00104,29/03/2026,Paediatrics,acute appendicitis
+V1208,3,H3-00099,19/03/2026,ENT,chest pain ? MI
+V1209,3,H3-00099,11/04/2026,General Medicine,chest pain ? MI
+V1210,4,H4-00100,2026-08-16,ENT,renal calculus
+V1211,4,H4-00100,2026-01-13,General Medicine,loose motions / vomiting
+V1212,1,H1-00105,2025-11-16,Cardiology,chest pain ? MI
+V1213,2,H2-00105,2026-10-02,Paediatrics,pneumonia
+V1214,2,H2-00105,12-07-2026,ENT,T2DM uncontrolled
+V1215,2,H2-00105,28/01/2026,Orthopaedics,acute appendicitis
+V1216,2,H2-00105,2026-06-22,Gynaecology,post op wound care
+V1217,3,H3-00100,23/05/2026,Gynaecology,loose motions / vomiting
+V1218,3,H3-00100,17/06/2026,Orthopaedics,acute appendicitis
+V1219,3,H3-00100,2026-02-08,Paediatrics,high BP
+V1220,3,H3-00100,02/03/2026,General Medicine,# femur
+V1221,3,H3-00100,26/09/2026,Paediatrics,renal calculus
+V1222,4,H4-00101,2026-10-12,Cardiology,Typhoid fever
+V1223,4,H4-00101,19/10/2025,Paediatrics,pneumonia
+V1224,4,H4-00101,28/01/2026,General Medicine,post op wound care
+V1225,4,H4-00101,01/01/2026,ENT,T2DM uncontrolled
+V1226,1,H1-00106,08/08/2026,Cardiology,Typhoid fever
+V1227,2,H2-00106,2025-12-20,Cardiology,renal calculus
+V1228,2,H2-00106,2026-05-05,Orthopaedics,high BP
+V1229,2,H2-00106,23/10/2025,General Medicine,UTI
+V1230,2,H2-00106,2026-01-20,Cardiology,post op wound care
+V1231,2,H2-00106,2025-11-03,General Medicine,chest pain ? MI
+V1232,3,H3-00101,21-10-2025,General Medicine,T2DM uncontrolled
+V1233,3,H3-00101,08-07-2026,Paediatrics,viral fever
+V1234,3,H3-00101,2026-02-11,ENT,UTI
+V1235,3,H3-00101,2026-02-18,Orthopaedics,tb suspect
+V1236,4,H4-00102,04/02/2026,Cardiology,asthma exacerbation
+V1237,4,H4-00102,09-07-2026,Cardiology,loose motions / vomiting
+V1238,4,H4-00102,07/09/2026,General Medicine,T2DM uncontrolled
+V1239,4,H4-00102,21-10-2026,Orthopaedics,pneumonia
+V1240,4,H4-00102,2025-11-24,ENT,tb suspect
+V1241,1,H1-00107,08-07-2026,Cardiology,post op wound care
+V1242,2,H2-00107,2026-02-22,Cardiology,T2DM uncontrolled
+V1243,2,H2-00107,2025-10-18,Gynaecology,tb suspect
+V1244,2,H2-00107,2026-10-14,ENT,T2DM uncontrolled
+V1245,3,H3-00102,2026-07-21,General Medicine,pneumonia
+V1246,3,H3-00102,27/01/2026,Paediatrics,acute appendicitis
+V1247,3,H3-00102,2025-11-25,ENT,UTI
+V1248,4,H4-00103,2026-02-28,Gynaecology,renal calculus
+V1249,4,H4-00103,2026-01-18,Cardiology,# femur
+V1250,4,H4-00103,2026-10-22,Cardiology,asthma exacerbation
+V1251,4,H4-00103,12/01/2026,Orthopaedics,high BP
+V1252,4,H4-00103,27/02/2026,Orthopaedics,dengue +ve
+V1253,1,H1-00108,26/10/2025,Cardiology,acute appendicitis
+V1254,1,H1-00108,11/10/2025,General Medicine,renal calculus
+V1255,1,H1-00108,20-03-2026,Cardiology,post op wound care
+V1256,1,H1-00108,2026-09-27,Cardiology,pneumonia
+V1257,2,H2-00108,05/11/2026,Gynaecology,UTI
+V1258,2,H2-00108,2026-10-26,ENT,UTI
+V1259,2,H2-00108,21/07/2026,Gynaecology,high BP
+V1260,3,H3-00103,2026-04-23,General Medicine,tb suspect
+V1261,3,H3-00103,2026-07-28,Orthopaedics,Typhoid fever
+V1262,4,H4-00104,2026-04-03,General Medicine,dengue +ve
+V1263,4,H4-00104,2026-11-05,General Medicine,post op wound care
+V1264,4,H4-00104,2026-07-10,Gynaecology,post op wound care
+V1265,4,H4-00104,2026-10-15,Gynaecology,pneumonia
+V1266,4,H4-00104,03/11/2025,Gynaecology,high BP
+V1267,1,H1-00109,27/10/2025,Orthopaedics,renal calculus
+V1268,1,H1-00109,2026-10-06,Paediatrics,chest pain ? MI
+V1269,2,H2-00109,05/10/2026,Cardiology,viral fever
+V1270,2,H2-00109,2026-01-01,Orthopaedics,T2DM uncontrolled
+V1271,3,H3-00104,10/03/2026,ENT,UTI
+V1272,4,H4-00105,21/06/2026,Orthopaedics,T2DM uncontrolled
+V1273,4,H4-00105,25/10/2026,General Medicine,renal calculus
+V1274,4,H4-00105,10/11/2026,Paediatrics,UTI
+V1275,1,H1-00110,2025-11-09,Paediatrics,renal calculus
+V1276,1,H1-00110,26/05/2026,General Medicine,viral fever
+V1277,1,H1-00110,2026-05-13,Paediatrics,pneumonia
+V1278,2,H2-00110,2026-02-20,General Medicine,renal calculus
+V1279,3,H3-00105,26/12/2025,ENT,T2DM uncontrolled
+V1280,4,H4-00106,18/09/2026,General Medicine,Typhoid fever
+V1281,4,H4-00106,27-12-2025,ENT,loose motions / vomiting
+V1282,4,H4-00106,08/12/2025,Orthopaedics,high BP
+V1283,4,H4-00106,2026-05-06,Gynaecology,Typhoid fever
+V1284,1,H1-00111,2026-11-11,Gynaecology,UTI
+V1285,1,H1-00111,27/08/2026,Cardiology,# femur
+V1286,1,H1-00111,15/09/2026,Gynaecology,tb suspect
+V1287,2,H2-00111,09-03-2026,General Medicine,tb suspect
+V1288,3,H3-00106,2025-11-08,General Medicine,post op wound care
+V1289,3,H3-00106,18/09/2026,Gynaecology,asthma exacerbation
+V1290,3,H3-00106,2025-10-11,ENT,loose motions / vomiting
+V1291,3,H3-00106,2026-07-14,Paediatrics,T2DM uncontrolled
+V1292,4,H4-00107,2026-02-09,ENT,renal calculus
+V1293,4,H4-00107,04/07/2026,ENT,T2DM uncontrolled
+V1294,1,H1-00112,2026-08-08,Orthopaedics,renal calculus
+V1295,1,H1-00112,30/08/2026,General Medicine,Typhoid fever
+V1296,1,H1-00112,2025-11-06,ENT,Typhoid fever
+V1297,1,H1-00112,21/04/2026,General Medicine,UTI
+V1298,2,H2-00112,2026-10-22,Cardiology,UTI
+V1299,2,H2-00112,2025-10-14,Orthopaedics,renal calculus
+V1300,2,H2-00112,29-04-2026,Gynaecology,loose motions / vomiting
+V1301,2,H2-00112,2025-12-10,General Medicine,T2DM uncontrolled
+V1302,2,H2-00112,2026-04-21,General Medicine,pneumonia
+V1303,3,H3-00107,26-08-2026,Gynaecology,post op wound care
+V1304,3,H3-00107,12/04/2026,Orthopaedics,high BP
+V1305,3,H3-00107,2026-05-23,General Medicine,UTI
+V1306,3,H3-00107,30/11/2025,Gynaecology,T2DM uncontrolled
+V1307,4,H4-00108,26/10/2026,Gynaecology,loose motions / vomiting
+V1308,1,H1-00113,2026-01-29,ENT,acute appendicitis
+V1309,1,H1-00113,22/04/2026,ENT,asthma exacerbation
+V1310,2,H2-00113,04-04-2026,Gynaecology,post op wound care
+V1311,2,H2-00113,30/10/2025,Cardiology,tb suspect
+V1312,2,H2-00113,2025-11-13,General Medicine,renal calculus
+V1313,2,H2-00113,22/05/2026,ENT,loose motions / vomiting
+V1314,3,H3-00108,2026-01-22,Cardiology,post op wound care
+V1315,3,H3-00108,07/07/2026,Cardiology,viral fever
+V1316,3,H3-00108,2026-06-27,Paediatrics,viral fever
+V1317,4,H4-00109,2026-02-10,General Medicine,loose motions / vomiting
+V1318,4,H4-00109,2026-10-10,Gynaecology,Typhoid fever
+V1319,4,H4-00109,2026-07-28,Gynaecology,chest pain ? MI
+V1320,4,H4-00109,30-04-2026,General Medicine,viral fever
+V1321,4,H4-00109,2026-02-20,Paediatrics,tb suspect

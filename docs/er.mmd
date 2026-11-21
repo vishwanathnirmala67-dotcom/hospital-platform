@@ -1,0 +1,15 @@
+erDiagram
+  hospitals ||--o{ doctors : employs
+  hospitals ||--o{ admissions : has
+  patients ||--o{ appointments : books
+  doctors ||--o{ appointments : attends
+  appointments ||--o| prescriptions : results_in
+  patients ||--o{ prescriptions : receives
+  doctors ||--o{ prescriptions : issues
+  patients ||--o{ admissions : admitted
+  patients ||--o{ opd_visits : visits
+  patients ||--o{ lab_tests : has
+  patients ||--o{ billing : billed
+  users }o--o| patients : is
+  users }o--o| doctors : is
+  users ||--o{ refresh_tokens : holds

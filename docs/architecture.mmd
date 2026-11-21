@@ -1,0 +1,26 @@
+flowchart TB
+  subgraph Client["Browser"]
+    UI["React SPA (Vite)<br/>Vercel"]
+  end
+  subgraph API["Node.js + Express API (Render)"]
+    MW["helmet · CORS · rate-limit<br/>JWT auth · RBAC · zod validation"]
+    R["Routes: auth · patients · doctors<br/>appointments · prescriptions · admin"]
+    SVC["Services: tokens · metrics · jobs"]
+    W["Background worker<br/>(SKIP LOCKED queue)"]
+  end
+  subgraph DB["PostgreSQL"]
+    T[("users · patients · doctors<br/>appointments · prescriptions<br/>admissions · opd_visits · lab_tests · billing<br/>jobs · refresh_tokens")]
+  end
+  FS[("Upload storage<br/>PDF / PNG / JPEG")]
+  SMTP["SMTP / email"]
+  subgraph ETL["Seed pipeline"]
+    RAW["4 hospitals' raw CSVs"] --> CLEAN["clean · map diagnoses<br/>flag missing discharge · dedupe patients"]
+  end
+  UI -- "HTTPS JSON + Bearer JWT" --> MW --> R --> SVC
+  R --> T
+  SVC --> T
+  R --> FS
+  T -. "pending jobs" .-> W --> SMTP
+  CLEAN -- "npm run seed" --> T
+  GH["GitHub Actions<br/>test · scan · deploy"] -. "deploy" .-> UI
+  GH -. "deploy hook" .-> API

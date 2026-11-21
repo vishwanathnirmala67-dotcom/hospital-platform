@@ -1,0 +1,492 @@
+admission_id,hospital_id,local_patient_id,ward,bed_no,admit_date,discharge_date,diagnosis
+A1,3,H3-00001,Surgical,B-7,12/11/2025,16/11/2025,tb suspect
+A2,2,H2-00002,Paediatric,A-24,10/01/2026,2026-01-20,I10
+A3,2,H2-00002,General,A-31,18/03/2026,19/03/2026,asthma exacerbation
+A4,2,H2-00002,Paediatric,C-6,13/04/2026,19/04/2026,acute appendicitis
+A5,2,H2-00003,ICU,C-13,2026-01-29,2026-01-31,E11.9
+A6,2,H2-00003,ICU,A-15,2026-02-11,17-02-2026,dengue +ve
+A7,2,H2-00004,ICU,A-34,03/01/2026,2026-01-08,N20.0
+A8,4,H4-00004,ICU,A-36,2026-01-23,28/01/2026,A01.0
+A9,3,H3-00006,General,C-30,2026-03-02,14/03/2026,high BP
+A10,3,H3-00006,General,C-8,2026-03-21,2026-03-22,high BP
+A11,2,H2-00007,Paediatric,B-27,12-12-2025,2025-12-16,high BP
+A12,2,H2-00007,ICU,B-7,20/03/2026,25/03/2026,acute appendicitis
+A13,4,H4-00007,ICU,B-34,30-12-2025,10/01/2026,high BP
+A14,1,H1-00010,Maternity,B-31,12-11-2025,2025-11-18,renal calculus
+A15,3,H3-00008,ICU,B-30,13/12/2025,2025-12-14,high BP
+A16,3,H3-00008,General,A-31,2026-01-04,2026-01-10,# femur
+A17,3,H3-00008,ICU,A-18,2026-04-13,2026-04-14,T2DM uncontrolled
+A18,3,H3-00008,Surgical,C-32,20/04/2026,2026-04-21,T2DM uncontrolled
+A19,2,H2-00009,Surgical,C-14,2025-12-09,2025-12-12,renal calculus
+A20,2,H2-00009,General,C-32,25/02/2026,2026-03-09,A01.0
+A21,3,H3-00009,General,B-7,27-11-2025,06/12/2025,Typhoid fever
+A22,1,H1-00012,Surgical,C-25,2026-01-25,2026-02-01,acute appendicitis
+A23,3,H3-00010,Paediatric,A-4,2025-12-27,2026-01-07,N20.0
+A24,3,H3-00010,ICU,B-18,2026-05-02,11/05/2026,T2DM uncontrolled
+A25,1,H1-00013,General,A-1,06/03/2026,17/03/2026,J18.9
+A26,2,H2-00011,Surgical,B-31,2026-02-01,2026-02-09,J18.9
+A27,2,H2-00011,General,A-36,30/06/2026,2026-07-09,high BP
+A28,4,H4-00011,Surgical,B-13,13/11/2025,18/11/2025,asthma exacerbation
+A29,1,H1-00014,Maternity,B-4,18/02/2026,26/02/2026,dengue +ve
+A30,4,H4-00012,General,C-5,14/11/2025,24/11/2025,N20.0
+A31,4,H4-00012,Paediatric,A-40,2025-12-09,15-12-2025,acute appendicitis
+A32,1,H1-00015,Surgical,B-32,25/11/2025,03/12/2025,J18.9
+A33,1,H1-00016,Maternity,B-6,19/01/2026,2026-01-29,loose motions / vomiting
+A34,3,H3-00014,Maternity,C-14,10/12/2025,21/12/2025,Typhoid fever
+A35,4,H4-00015,Maternity,A-30,01/03/2026,2026-03-12,loose motions / vomiting
+A36,2,H2-00017,Paediatric,A-16,21/11/2025,2025-12-02,T2DM uncontrolled
+A37,2,H2-00017,Paediatric,C-3,21/12/2025,25-12-2025,high BP
+A38,3,H3-00016,General,B-17,04/02/2026,2026-02-09,acute appendicitis
+A39,4,H4-00016,Maternity,C-3,2026-02-08,10/02/2026,K35.8
+A40,4,H4-00016,Surgical,A-18,2026-03-02,2026-03-05,tb suspect
+A41,2,H2-00018,Paediatric,B-40,01-03-2026,13/03/2026,J18.9
+A42,2,H2-00018,General,A-35,09/04/2026,21/04/2026,chest pain ? MI
+A43,4,H4-00017,Paediatric,B-23,2026-01-28,05-02-2026,post op wound care
+A44,4,H4-00017,ICU,A-4,08/02/2026,2026-02-09,post op wound care
+A45,1,H1-00020,Paediatric,A-20,09/03/2026,20/03/2026,renal calculus
+A46,1,H1-00020,Maternity,B-8,2026-03-31,04-04-2026,high BP
+A47,1,H1-00021,Surgical,A-36,2025-11-07,09/11/2025,dengue +ve
+A48,1,H1-00021,Paediatric,A-38,20/01/2026,2026-01-28,viral fever
+A49,3,H3-00019,ICU,B-33,21/11/2025,03-12-2025,J18.9
+A50,4,H4-00020,Maternity,C-20,26/02/2026,2026-03-02,J18.9
+A51,4,H4-00020,ICU,B-26,05/05/2026,12/05/2026,J18.9
+A52,4,H4-00020,Maternity,C-1,29/05/2026,30/05/2026,T2DM uncontrolled
+A53,4,H4-00021,Surgical,C-10,2025-12-07,10-12-2025,asthma exacerbation
+A54,1,H1-00023,Paediatric,C-25,2026-03-10,15-03-2026,asthma exacerbation
+A55,1,H1-00023,Surgical,A-40,27/03/2026,30/03/2026,pneumonia
+A56,2,H2-00022,Maternity,A-8,2025-12-23,26/12/2025,post op wound care
+A57,4,H4-00022,General,A-19,04/12/2025,12/12/2025,A01.0
+A58,4,H4-00022,Surgical,B-20,2025-12-30,01/01/2026,high BP
+A59,3,H3-00022,Maternity,C-12,15/02/2026,2026-02-18,pneumonia
+A60,4,H4-00024,Paediatric,B-17,04/01/2026,15/01/2026,high BP
+A61,4,H4-00024,Surgical,C-7,02-04-2026,2026-04-03,loose motions / vomiting
+A62,2,H2-00025,Paediatric,B-11,2026-02-22,01/03/2026,viral fever
+A63,3,H3-00024,General,C-28,21/11/2025,2025-11-24,pneumonia
+A64,4,H4-00025,Maternity,A-26,2026-03-08,16/03/2026,renal calculus
+A65,1,H1-00027,Paediatric,C-14,2025-11-26,2025-11-29,acute appendicitis
+A66,3,H3-00026,Maternity,A-34,17/11/2025,2025-11-26,T2DM uncontrolled
+A67,3,H3-00026,General,C-5,2026-01-07,2026-01-16,viral fever
+A68,3,H3-00026,Surgical,B-30,19/01/2026,25/01/2026,tb suspect
+A69,2,H2-00028,General,A-28,20-11-2025,2025-11-23,renal calculus
+A70,2,H2-00028,Surgical,A-14,2026-03-06,,asthma exacerbation
+A71,2,H2-00028,Paediatric,A-36,03/04/2026,06/04/2026,acute appendicitis
+A72,3,H3-00028,Paediatric,A-14,20-02-2026,2026-02-28,chest pain ? MI
+A73,3,H3-00029,General,A-1,22/11/2025,2025-11-27,post op wound care
+A74,1,H1-00032,ICU,C-35,2026-03-06,2026-03-18,K35.8
+A75,1,H1-00032,Maternity,B-33,2026-05-20,25/05/2026,Typhoid fever
+A76,3,H3-00030,ICU,B-35,18/01/2026,25/01/2026,# femur
+A77,3,H3-00030,Surgical,B-23,2026-02-06,2026-02-09,pneumonia
+A78,1,H1-00033,Paediatric,C-22,2026-02-17,2026-02-26,A01.0
+A79,1,H1-00033,ICU,C-3,2026-03-07,2026-03-08,UTI
+A80,2,H2-00033,General,A-10,09/03/2026,15/03/2026,viral fever
+A81,1,H1-00038,General,C-25,12/02/2026,14/02/2026,asthma exacerbation
+A82,1,H1-00038,General,B-31,2026-02-17,18/02/2026,pneumonia
+A83,2,H2-00035,Maternity,C-21,19/11/2025,2025-12-01,asthma exacerbation
+A84,2,H2-00035,ICU,A-32,26/12/2025,29/12/2025,asthma exacerbation
+A85,3,H3-00036,ICU,C-19,2025-12-08,2025-12-16,A01.0
+A86,2,H2-00037,Paediatric,A-26,03/01/2026,2026-01-08,I10
+A87,2,H2-00037,Paediatric,B-39,2026-01-15,2026-01-19,acute appendicitis
+A88,1,H1-00040,General,B-31,23/11/2025,2025-11-28,loose motions / vomiting
+A89,3,H3-00038,Surgical,A-11,16/01/2026,21-01-2026,pneumonia
+A90,3,H3-00038,Surgical,B-28,06-04-2026,,dengue +ve
+A91,3,H3-00038,ICU,A-24,2026-05-05,06-05-2026,T2DM uncontrolled
+A92,4,H4-00037,ICU,A-20,2026-01-11,23-01-2026,T2DM uncontrolled
+A93,4,H4-00037,ICU,C-27,2026-03-08,2026-03-15,post op wound care
+A94,1,H1-00041,Surgical,C-6,11/01/2026,2026-01-19,T2DM uncontrolled
+A95,1,H1-00041,Maternity,B-4,13/04/2026,2026-04-21,J18.9
+A96,3,H3-00039,Maternity,C-14,2026-02-06,13-02-2026,T2DM uncontrolled
+A97,4,H4-00038,General,C-40,04/03/2026,,post op wound care
+A98,2,H2-00040,Paediatric,C-24,2025-11-07,2025-11-11,asthma exacerbation
+A99,1,H1-00043,General,A-18,2025-11-26,2025-11-30,acute appendicitis
+A100,2,H2-00041,Paediatric,C-8,2025-11-13,14/11/2025,renal calculus
+A101,3,H3-00041,Paediatric,A-1,02/02/2026,2026-02-11,K35.8
+A102,4,H4-00040,Maternity,C-37,2026-02-13,14/02/2026,A01.0
+A103,2,H2-00042,Surgical,B-38,12/01/2026,2026-01-13,UTI
+A104,4,H4-00041,Paediatric,C-6,11/01/2026,23/01/2026,N20.0
+A105,4,H4-00041,ICU,C-4,10-02-2026,2026-02-11,pneumonia
+A106,1,H1-00045,Paediatric,A-25,2026-02-05,16/02/2026,renal calculus
+A107,2,H2-00043,ICU,A-40,2026-02-11,20-02-2026,A01.0
+A108,2,H2-00043,Maternity,C-11,2026-05-05,2026-05-13,A01.0
+A109,1,H1-00047,Paediatric,A-8,29/01/2026,10/02/2026,chest pain ? MI
+A110,1,H1-00048,Surgical,B-6,11-01-2026,2026-01-12,T2DM uncontrolled
+A111,1,H1-00048,Maternity,C-19,2026-01-26,2026-01-30,Typhoid fever
+A112,1,H1-00049,Paediatric,A-28,2025-11-04,2025-11-05,K35.8
+A113,4,H4-00046,General,B-2,2025-12-28,06/01/2026,# femur
+A114,2,H2-00049,Paediatric,C-39,2025-11-04,10/11/2025,I10
+A115,2,H2-00049,General,A-31,01/02/2026,10/02/2026,pneumonia
+A116,3,H3-00048,Paediatric,C-40,2026-02-26,03-03-2026,chest pain ? MI
+A117,3,H3-00048,General,B-3,2026-03-28,2026-03-29,loose motions / vomiting
+A118,4,H4-00047,General,B-2,2026-02-28,10/03/2026,pneumonia
+A119,1,H1-00051,Paediatric,A-36,2025-11-15,2025-11-22,post op wound care
+A120,1,H1-00051,Maternity,C-5,2025-11-25,2025-12-01,tb suspect
+A121,2,H2-00050,Maternity,A-6,26/12/2025,2025-12-29,dengue +ve
+A122,3,H3-00049,Surgical,A-40,2026-01-25,26/01/2026,asthma exacerbation
+A123,3,H3-00049,General,A-20,31/01/2026,2026-02-05,chest pain ? MI
+A124,1,H1-00053,Paediatric,A-5,09-01-2026,2026-01-16,acute appendicitis
+A125,4,H4-00050,Maternity,C-1,09/12/2025,10/12/2025,asthma exacerbation
+A126,1,H1-00055,General,C-33,07/11/2025,2025-11-17,I10
+A127,2,H2-00054,Maternity,A-9,2026-01-22,,T2DM uncontrolled
+A128,4,H4-00052,General,A-1,2026-01-13,2026-01-22,acute appendicitis
+A129,4,H4-00052,Maternity,A-1,2026-02-13,14/02/2026,tb suspect
+A130,4,H4-00052,ICU,B-31,2026-04-18,19-04-2026,renal calculus
+A131,2,H2-00055,Paediatric,A-24,2026-03-09,2026-03-19,J18.9
+A132,2,H2-00056,Maternity,C-9,2025-12-22,2026-01-02,E11.9
+A133,4,H4-00053,ICU,B-24,10/03/2026,2026-03-21,E11.9
+A134,3,H3-00055,General,A-26,2026-01-15,2026-01-18,asthma exacerbation
+A135,4,H4-00054,Maternity,A-14,2026-03-04,2026-03-12,acute appendicitis
+A136,1,H1-00058,Maternity,C-31,04/01/2026,2026-01-08,J18.9
+A137,2,H2-00058,Paediatric,C-7,2025-12-02,03-12-2025,high BP
+A138,1,H1-00059,Surgical,B-19,2026-02-24,2026-03-02,T2DM uncontrolled
+A139,1,H1-00061,Paediatric,C-17,10/03/2026,16/03/2026,asthma exacerbation
+A140,3,H3-00058,General,B-32,09-12-2025,17/12/2025,Typhoid fever
+A141,4,H4-00057,General,C-39,14/12/2025,17/12/2025,high BP
+A142,1,H1-00062,Maternity,B-10,11/12/2025,15/12/2025,# femur
+A143,2,H2-00061,General,C-16,14/02/2026,15/02/2026,K35.8
+A144,2,H2-00061,Maternity,B-1,27-02-2026,2026-02-28,asthma exacerbation
+A145,2,H2-00061,ICU,A-31,2026-05-04,08/05/2026,Typhoid fever
+A146,4,H4-00058,Maternity,B-33,01/01/2026,04/01/2026,post op wound care
+A147,1,H1-00063,General,C-18,2025-12-02,13/12/2025,pneumonia
+A148,2,H2-00062,Surgical,C-7,04-02-2026,2026-02-07,Typhoid fever
+A149,3,H3-00060,General,B-3,2025-12-13,19/12/2025,UTI
+A150,1,H1-00065,Surgical,A-11,2025-11-01,,loose motions / vomiting
+A151,2,H2-00064,General,C-29,2026-02-02,2026-02-07,acute appendicitis
+A152,3,H3-00062,General,B-23,2026-01-15,21/01/2026,J18.9
+A153,3,H3-00062,Paediatric,B-23,2026-05-09,,# femur
+A154,3,H3-00062,General,A-7,2026-06-03,2026-06-07,acute appendicitis
+A155,4,H4-00061,Surgical,C-18,05/01/2026,15/01/2026,renal calculus
+A156,1,H1-00066,ICU,B-29,2025-11-17,23/11/2025,A01.0
+A157,3,H3-00063,Paediatric,C-30,2026-02-08,2026-02-11,K35.8
+A158,3,H3-00063,General,C-40,2026-03-24,2026-03-31,dengue +ve
+A159,3,H3-00063,Maternity,B-18,08/04/2026,10/04/2026,UTI
+A160,4,H4-00062,ICU,A-19,2025-12-25,28-12-2025,viral fever
+A161,1,H1-00067,Surgical,B-40,28/11/2025,07/12/2025,dengue +ve
+A162,2,H2-00066,ICU,C-24,2025-12-13,,T2DM uncontrolled
+A163,3,H3-00064,Maternity,A-14,2025-12-17,2025-12-27,I10
+A164,4,H4-00063,Surgical,C-28,2026-02-27,2026-03-02,# femur
+A165,1,H1-00068,General,A-3,2025-11-29,2025-12-10,UTI
+A166,3,H3-00065,General,A-36,25-12-2025,2026-01-03,J18.9
+A167,4,H4-00064,General,A-8,03/01/2026,2026-01-05,chest pain ? MI
+A168,3,H3-00068,Maternity,A-21,2026-02-02,2026-02-13,acute appendicitis
+A169,3,H3-00068,General,C-40,2026-04-10,16/04/2026,J18.9
+A170,3,H3-00068,General,B-12,20/04/2026,25/04/2026,post op wound care
+A171,4,H4-00067,Surgical,B-8,2026-01-15,2026-01-21,T2DM uncontrolled
+A172,2,H2-00073,Maternity,A-19,2026-02-21,,tb suspect
+A173,2,H2-00073,General,B-16,21-03-2026,27/03/2026,# femur
+A174,3,H3-00069,Surgical,A-3,2025-11-15,2025-11-21,K35.8
+A175,3,H3-00069,General,C-31,2025-12-05,06/12/2025,asthma exacerbation
+A176,2,H2-00074,Paediatric,A-7,2026-01-07,2026-01-12,A01.0
+A177,4,H4-00069,General,A-33,2025-11-03,2025-11-09,A01.0
+A178,4,H4-00069,Surgical,B-40,2026-04-01,2026-04-09,# femur
+A179,1,H1-00074,Maternity,C-31,2025-11-16,,E11.9
+A180,4,H4-00070,Paediatric,C-18,07-03-2026,2026-03-19,# femur
+A181,1,H1-00075,Maternity,A-6,2026-01-05,12/01/2026,asthma exacerbation
+A182,1,H1-00075,ICU,B-20,2026-02-03,2026-02-05,N20.0
+A183,4,H4-00071,Surgical,A-13,22/01/2026,2026-01-29,K35.8
+A184,3,H3-00073,Maternity,A-30,16/12/2025,2025-12-18,chest pain ? MI
+A185,1,H1-00077,Maternity,B-23,2025-11-14,2025-11-16,viral fever
+A186,3,H3-00074,Maternity,C-32,03/03/2026,10/03/2026,high BP
+A187,4,H4-00074,General,B-24,2025-12-05,16/12/2025,K35.8
+A188,4,H4-00074,General,C-39,2026-01-05,2026-01-10,tb suspect
+A189,4,H4-00074,Surgical,A-24,2026-01-20,2026-01-22,K35.8
+A190,1,H1-00078,Maternity,A-15,18/11/2025,23/11/2025,high BP
+A191,4,H4-00075,Paediatric,C-34,2025-12-21,2025-12-29,K35.8
+A192,4,H4-00075,Surgical,A-38,15-01-2026,2026-01-21,renal calculus
+A193,1,H1-00079,General,B-39,2025-11-01,2025-11-03,Typhoid fever
+A194,2,H2-00080,General,C-40,2026-01-08,15/01/2026,pneumonia
+A195,4,H4-00076,Surgical,B-14,25/01/2026,2026-02-06,K35.8
+A196,2,H2-00082,Paediatric,A-40,08/01/2026,18/01/2026,E11.9
+A197,2,H2-00082,Paediatric,B-22,20-04-2026,,viral fever
+A198,3,H3-00078,Paediatric,B-11,16/02/2026,21/02/2026,A01.0
+A199,1,H1-00082,ICU,B-32,2026-01-09,19/01/2026,acute appendicitis
+A200,1,H1-00082,Maternity,A-38,14/02/2026,25/02/2026,loose motions / vomiting
+A201,2,H2-00083,Paediatric,A-6,01-12-2025,2025-12-04,K35.8
+A202,3,H3-00079,General,B-16,22/12/2025,28/12/2025,Typhoid fever
+A203,4,H4-00079,Surgical,C-29,10/03/2026,2026-03-11,renal calculus
+A204,2,H2-00084,Maternity,A-13,21-02-2026,27/02/2026,N20.0
+A205,2,H2-00084,General,A-22,20/03/2026,22/03/2026,T2DM uncontrolled
+A206,2,H2-00085,General,B-23,14/02/2026,16/02/2026,asthma exacerbation
+A207,1,H1-00085,ICU,A-16,2025-11-18,2025-11-19,N20.0
+A208,4,H4-00082,Paediatric,C-16,2025-11-05,17-11-2025,renal calculus
+A209,1,H1-00086,General,B-6,2026-01-08,10/01/2026,I10
+A210,1,H1-00086,ICU,C-30,27-05-2026,2026-06-05,tb suspect
+A211,1,H1-00087,Paediatric,B-33,2026-02-13,19/02/2026,Typhoid fever
+A212,1,H1-00087,Paediatric,B-27,18/04/2026,2026-04-22,pneumonia
+A213,1,H1-00087,ICU,A-9,2026-05-15,2026-05-17,pneumonia
+A214,3,H3-00083,ICU,C-22,2026-01-14,23/01/2026,Typhoid fever
+A215,3,H3-00083,Paediatric,C-2,28-01-2026,02/02/2026,high BP
+A216,4,H4-00083,Surgical,B-24,2025-11-20,27/11/2025,E11.9
+A217,1,H1-00088,Surgical,B-36,2026-03-08,2026-03-12,A01.0
+A218,2,H2-00090,Paediatric,A-20,02-11-2025,14/11/2025,dengue +ve
+A219,4,H4-00084,General,C-27,2025-12-08,2025-12-12,I10
+A220,4,H4-00084,Paediatric,A-30,2026-01-02,05-01-2026,asthma exacerbation
+A221,1,H1-00089,General,B-13,2025-12-11,2025-12-18,acute appendicitis
+A222,1,H1-00089,General,C-32,2026-04-08,2026-04-19,high BP
+A223,3,H3-00085,Surgical,C-15,17/01/2026,2026-01-23,K35.8
+A224,4,H4-00086,Paediatric,B-24,2026-02-22,2026-03-04,asthma exacerbation
+A225,4,H4-00086,General,B-29,2026-03-14,2026-03-17,tb suspect
+A226,1,H1-00091,Surgical,B-3,2025-12-11,2025-12-12,loose motions / vomiting
+A227,1,H1-00091,Maternity,A-23,17/12/2025,2025-12-18,post op wound care
+A228,2,H2-00093,General,C-1,2025-11-25,02/12/2025,high BP
+A229,2,H2-00093,Maternity,B-20,2026-03-17,28/03/2026,loose motions / vomiting
+A230,4,H4-00087,Paediatric,A-30,2026-01-10,12/01/2026,high BP
+A231,4,H4-00087,Surgical,B-19,2026-03-24,2026-04-01,tb suspect
+A232,1,H1-00092,General,B-13,18/02/2026,2026-02-23,I10
+A233,1,H1-00092,General,A-18,15/04/2026,16/04/2026,K35.8
+A234,2,H2-00094,Paediatric,C-13,13/11/2025,14/11/2025,T2DM uncontrolled
+A235,4,H4-00088,Surgical,B-31,2025-11-06,2025-11-15,pneumonia
+A236,2,H2-00095,Surgical,C-24,29/01/2026,05-02-2026,I10
+A237,3,H3-00089,Maternity,A-8,31/01/2026,10-02-2026,K35.8
+A238,3,H3-00089,General,A-15,2026-05-22,30-05-2026,T2DM uncontrolled
+A239,4,H4-00089,General,B-30,21-01-2026,2026-01-29,pneumonia
+A240,1,H1-00094,General,C-19,05/12/2025,09/12/2025,renal calculus
+A241,3,H3-00090,ICU,B-16,14/12/2025,2025-12-25,high BP
+A242,1,H1-00095,Maternity,B-3,2026-01-21,22/01/2026,viral fever
+A243,2,H2-00097,Surgical,A-26,01/03/2026,11/03/2026,dengue +ve
+A244,1,H1-00096,Surgical,C-14,2026-01-11,16/01/2026,loose motions / vomiting
+A245,2,H2-00098,ICU,C-3,30/11/2025,07-12-2025,asthma exacerbation
+A246,3,H3-00093,Surgical,B-37,2026-01-04,2026-01-06,chest pain ? MI
+A247,4,H4-00094,ICU,A-30,2026-02-17,2026-02-23,K35.8
+A248,1,H1-00097,General,B-18,24/12/2025,31/12/2025,high BP
+A249,1,H1-00097,Paediatric,A-1,2026-04-06,2026-04-14,viral fever
+A250,3,H3-00094,ICU,A-10,2025-11-14,23-11-2025,tb suspect
+A251,4,H4-00095,Maternity,C-4,15/12/2025,2025-12-26,tb suspect
+A252,4,H4-00095,Maternity,B-24,2025-12-29,2025-12-31,T2DM uncontrolled
+A253,2,H2-00100,General,B-6,2026-01-05,2026-01-16,high BP
+A254,1,H1-00099,Paediatric,C-25,2025-11-03,2025-11-07,post op wound care
+A255,1,H1-00099,General,B-24,2026-01-22,26/01/2026,dengue +ve
+A256,1,H1-00099,Maternity,C-24,2026-02-17,2026-02-22,viral fever
+A257,3,H3-00095,Maternity,C-20,2025-12-23,2025-12-31,A01.0
+A258,4,H4-00096,Surgical,B-32,2025-12-11,19/12/2025,renal calculus
+A259,4,H4-00096,Maternity,C-15,2025-12-28,2026-01-02,Typhoid fever
+A260,4,H4-00096,Maternity,A-28,2026-01-29,09/02/2026,tb suspect
+A261,1,H1-00100,General,B-18,2025-11-05,2025-11-12,viral fever
+A262,1,H1-00100,ICU,C-5,27/03/2026,03/04/2026,Typhoid fever
+A263,4,H4-00097,ICU,B-20,2025-12-10,18/12/2025,K35.8
+A264,2,H2-00102,ICU,A-36,2025-12-14,2025-12-22,asthma exacerbation
+A265,4,H4-00098,Maternity,A-25,2026-01-08,13/01/2026,T2DM uncontrolled
+A266,4,H4-00098,ICU,C-13,20/01/2026,21/01/2026,asthma exacerbation
+A267,1,H1-00102,Maternity,B-39,2025-11-19,2025-11-29,post op wound care
+A268,2,H2-00103,Maternity,B-6,17/01/2026,2026-01-28,viral fever
+A269,2,H2-00103,Maternity,A-34,07-02-2026,10/02/2026,UTI
+A270,1,H1-00103,General,B-10,2025-12-19,30/12/2025,UTI
+A271,4,H4-00099,Maternity,C-1,2025-12-18,20-12-2025,I10
+A272,1,H1-00104,General,A-37,2025-12-20,01/01/2026,E11.9
+A273,3,H3-00099,Maternity,A-27,2025-12-08,20-12-2025,post op wound care
+A274,4,H4-00100,Maternity,C-32,2025-11-28,2025-12-10,Typhoid fever
+A275,1,H1-00105,Paediatric,B-13,2026-02-08,11/02/2026,N20.0
+A276,4,H4-00101,Paediatric,C-17,05/11/2025,12/11/2025,post op wound care
+A277,4,H4-00101,Paediatric,B-32,2025-11-30,2025-12-11,asthma exacerbation
+A278,4,H4-00102,Surgical,B-32,21/11/2025,2025-11-27,T2DM uncontrolled
+A279,4,H4-00102,Paediatric,A-5,01/12/2025,07/12/2025,loose motions / vomiting
+A280,3,H3-00103,Surgical,B-37,2026-01-10,2026-01-12,N20.0
+A281,3,H3-00104,General,C-40,2025-12-22,2025-12-30,# femur
+A282,2,H2-00110,Surgical,B-1,11/02/2026,2026-02-12,loose motions / vomiting
+A283,3,H3-00105,ICU,B-33,12/01/2026,16/01/2026,# femur
+A284,2,H2-00111,ICU,A-31,2026-03-10,15/03/2026,loose motions / vomiting
+A285,3,H3-00106,Maternity,B-20,2026-02-05,07/02/2026,K35.8
+A286,4,H4-00107,Surgical,A-21,2025-12-24,05/01/2026,I10
+A287,4,H4-00108,ICU,C-33,03/02/2026,07-02-2026,A01.0
+A288,1,H1-00113,General,A-29,08/12/2025,2025-12-16,Typhoid fever
+A289,1,H1-00001,Maternity,C-7,2026-11-04,,loose motions / vomiting
+A290,1,H1-00008,Maternity,A-29,07/11/2026,,asthma exacerbation
+A291,1,H1-00015,Paediatric,B-28,2026-11-10,,post op wound care
+A292,1,H1-00022,Paediatric,A-13,07/11/2026,,post op wound care
+A293,1,H1-00029,General,C-21,04/11/2026,,# femur
+A294,1,H1-00036,General,C-20,2026-11-07,,tb suspect
+A295,1,H1-00043,General,A-18,08/11/2026,,T2DM uncontrolled
+A296,1,H1-00050,Maternity,A-37,2026-11-04,,tb suspect
+A297,1,H1-00057,Maternity,A-19,14/11/2026,,loose motions / vomiting
+A298,1,H1-00064,General,A-39,2026-11-11,,pneumonia
+A299,1,H1-00071,Surgical,C-40,04/11/2026,,Typhoid fever
+A300,1,H1-00078,ICU,A-16,13/11/2026,,Typhoid fever
+A301,1,H1-00085,Surgical,A-10,2026-11-04,,viral fever
+A302,1,H1-00092,General,B-27,10-11-2026,,UTI
+A303,1,H1-00099,Paediatric,C-25,13/11/2026,,renal calculus
+A304,1,H1-00106,Surgical,B-13,2026-11-06,,T2DM uncontrolled
+A305,1,H1-00113,General,C-36,15/11/2026,,pneumonia
+A306,1,H1-00007,ICU,B-35,2026-11-09,,pneumonia
+A307,1,H1-00014,Surgical,B-7,09/11/2026,,asthma exacerbation
+A308,1,H1-00021,Paediatric,B-10,2026-11-13,,# femur
+A309,1,H1-00028,General,A-4,2026-11-05,,asthma exacerbation
+A310,1,H1-00035,Surgical,A-1,12/11/2026,,post op wound care
+A311,1,H1-00042,General,A-9,2026-11-13,,renal calculus
+A312,1,H1-00049,Paediatric,A-29,2026-11-09,,T2DM uncontrolled
+A313,1,H1-00056,General,A-32,06/11/2026,,Typhoid fever
+A314,1,H1-00063,Paediatric,A-1,2026-11-03,,dengue +ve
+A315,1,H1-00070,Paediatric,B-23,05/11/2026,,asthma exacerbation
+A316,1,H1-00077,Surgical,C-21,2026-11-12,,renal calculus
+A317,1,H1-00084,General,B-11,14-11-2026,,high BP
+A318,1,H1-00091,Surgical,A-28,2026-11-14,,pneumonia
+A319,1,H1-00098,General,B-14,2026-11-08,,dengue +ve
+A320,1,H1-00105,Paediatric,C-34,06-11-2026,,loose motions / vomiting
+A321,1,H1-00112,Surgical,C-36,2026-11-12,,tb suspect
+A322,1,H1-00006,ICU,A-13,2026-11-06,,tb suspect
+A323,1,H1-00013,Paediatric,B-29,05/11/2026,,high BP
+A324,1,H1-00020,General,C-20,13/11/2026,,pneumonia
+A325,1,H1-00027,Surgical,A-7,04-11-2026,,T2DM uncontrolled
+A326,1,H1-00034,Maternity,B-1,2026-11-05,,renal calculus
+A327,1,H1-00041,Maternity,C-10,2026-11-11,,loose motions / vomiting
+A328,1,H1-00048,ICU,C-14,2026-11-09,,post op wound care
+A329,1,H1-00055,Paediatric,B-27,04/11/2026,,loose motions / vomiting
+A330,1,H1-00062,General,A-25,2026-11-15,,Typhoid fever
+A331,1,H1-00069,ICU,B-20,09/11/2026,,UTI
+A332,1,H1-00076,Surgical,C-26,05/11/2026,,Typhoid fever
+A333,1,H1-00083,ICU,B-14,2026-11-14,,chest pain ? MI
+A334,1,H1-00090,Paediatric,B-5,06-11-2026,,chest pain ? MI
+A335,1,H1-00097,ICU,C-27,09/11/2026,,acute appendicitis
+A336,1,H1-00104,General,C-21,2026-11-11,,renal calculus
+A337,1,H1-00111,General,A-18,2026-11-11,,viral fever
+A338,1,H1-00005,Maternity,C-21,2026-11-11,,asthma exacerbation
+A339,1,H1-00012,Paediatric,C-12,12/11/2026,,viral fever
+A340,1,H1-00019,Paediatric,B-18,2026-11-15,,acute appendicitis
+A341,1,H1-00026,Maternity,B-37,12/11/2026,,UTI
+A342,1,H1-00033,General,B-24,2026-11-15,,tb suspect
+A343,1,H1-00040,Surgical,C-39,07/11/2026,,renal calculus
+A344,1,H1-00047,ICU,B-38,11/11/2026,,chest pain ? MI
+A345,1,H1-00054,Paediatric,C-22,2026-11-04,,viral fever
+A346,1,H1-00061,Surgical,A-35,2026-11-03,,pneumonia
+A347,1,H1-00068,ICU,B-10,2026-11-10,,asthma exacerbation
+A348,1,H1-00075,Surgical,C-2,08/11/2026,,post op wound care
+A349,1,H1-00082,Surgical,C-21,2026-11-09,,UTI
+A350,1,H1-00089,General,C-13,13-11-2026,,tb suspect
+A351,1,H1-00096,Maternity,A-14,08-11-2026,,tb suspect
+A352,1,H1-00103,Surgical,B-8,14/11/2026,,# femur
+A353,1,H1-00110,Maternity,C-23,04/11/2026,,tb suspect
+A354,1,H1-00004,ICU,B-25,09/11/2026,,high BP
+A355,1,H1-00011,Paediatric,A-14,2026-11-08,,pneumonia
+A356,1,H1-00018,ICU,A-36,2026-11-13,,tb suspect
+A357,1,H1-00025,Maternity,A-30,10-11-2026,,acute appendicitis
+A358,1,H1-00032,Paediatric,C-39,10/11/2026,,post op wound care
+A359,1,H1-00039,Surgical,B-37,08-11-2026,,UTI
+A360,1,H1-00046,Surgical,B-22,11/11/2026,,pneumonia
+A361,1,H1-00053,Surgical,C-23,14/11/2026,,high BP
+A362,1,H1-00060,General,B-17,10/11/2026,,asthma exacerbation
+A363,1,H1-00067,ICU,C-29,2026-11-15,,acute appendicitis
+A364,1,H1-00074,Surgical,C-19,11-11-2026,,tb suspect
+A365,1,H1-00081,Surgical,C-4,2026-11-12,,acute appendicitis
+A366,1,H1-00088,Paediatric,C-35,2026-11-13,,pneumonia
+A367,1,H1-00095,Paediatric,A-4,2026-11-05,,acute appendicitis
+A368,1,H1-00102,Maternity,C-26,12/11/2026,,UTI
+A369,1,H1-00109,ICU,A-5,2026-11-10,,asthma exacerbation
+A370,1,H1-00003,Paediatric,C-16,03/11/2026,,UTI
+A371,1,H1-00010,Paediatric,C-31,2026-11-11,,acute appendicitis
+A372,1,H1-00017,Surgical,C-38,2026-11-12,,renal calculus
+A373,2,H2-00001,General,A-19,2026-11-13,,loose motions / vomiting
+A374,2,H2-00008,General,B-21,08/11/2026,,tb suspect
+A375,2,H2-00015,ICU,B-38,2026-11-09,,acute appendicitis
+A376,2,H2-00022,Paediatric,A-8,12/11/2026,,tb suspect
+A377,2,H2-00029,ICU,C-35,2026-11-05,,high BP
+A378,2,H2-00036,Surgical,B-19,13/11/2026,,acute appendicitis
+A379,2,H2-00043,Maternity,B-17,2026-11-15,,post op wound care
+A380,2,H2-00050,Maternity,C-38,2026-11-14,,high BP
+A381,2,H2-00057,Maternity,B-39,14/11/2026,,UTI
+A382,2,H2-00064,Maternity,B-15,2026-11-13,,pneumonia
+A383,2,H2-00071,General,C-16,2026-11-13,,high BP
+A384,2,H2-00078,ICU,B-25,15/11/2026,,UTI
+A385,2,H2-00085,ICU,B-22,2026-11-12,,post op wound care
+A386,2,H2-00092,Surgical,A-31,2026-11-11,,dengue +ve
+A387,2,H2-00099,Paediatric,A-22,2026-11-03,,asthma exacerbation
+A388,2,H2-00106,General,A-35,2026-11-08,,Typhoid fever
+A389,2,H2-00113,Maternity,B-32,2026-11-08,,loose motions / vomiting
+A390,2,H2-00007,Paediatric,C-19,2026-11-08,,post op wound care
+A391,2,H2-00014,Surgical,B-34,12/11/2026,,UTI
+A392,2,H2-00021,Paediatric,B-9,04-11-2026,,pneumonia
+A393,2,H2-00028,Paediatric,B-19,12/11/2026,,T2DM uncontrolled
+A394,2,H2-00035,Paediatric,B-22,2026-11-10,,acute appendicitis
+A395,2,H2-00042,General,A-10,2026-11-08,,T2DM uncontrolled
+A396,2,H2-00049,Surgical,A-10,2026-11-14,,renal calculus
+A397,2,H2-00056,Paediatric,C-19,06/11/2026,,asthma exacerbation
+A398,2,H2-00063,Paediatric,C-5,03/11/2026,,dengue +ve
+A399,2,H2-00070,General,A-27,08/11/2026,,UTI
+A400,2,H2-00077,Maternity,A-23,08/11/2026,,tb suspect
+A401,2,H2-00084,Maternity,B-30,2026-11-04,,asthma exacerbation
+A402,2,H2-00091,General,A-4,2026-11-08,,chest pain ? MI
+A403,2,H2-00098,General,A-5,2026-11-13,,loose motions / vomiting
+A404,2,H2-00105,Surgical,B-27,2026-11-14,,viral fever
+A405,2,H2-00112,Paediatric,C-15,03-11-2026,,chest pain ? MI
+A406,2,H2-00006,ICU,B-15,03/11/2026,,tb suspect
+A407,2,H2-00013,ICU,B-16,2026-11-03,,acute appendicitis
+A408,2,H2-00020,ICU,B-14,04/11/2026,,viral fever
+A409,2,H2-00027,ICU,C-5,15/11/2026,,dengue +ve
+A410,2,H2-00034,Maternity,C-13,2026-11-03,,loose motions / vomiting
+A411,2,H2-00041,Maternity,C-40,2026-11-12,,asthma exacerbation
+A412,2,H2-00048,Maternity,B-10,2026-11-12,,high BP
+A413,2,H2-00055,Maternity,A-9,11/11/2026,,high BP
+A414,2,H2-00062,Surgical,A-28,05-11-2026,,loose motions / vomiting
+A415,2,H2-00069,Surgical,C-7,09/11/2026,,dengue +ve
+A416,2,H2-00076,Maternity,A-2,2026-11-15,,dengue +ve
+A417,2,H2-00083,Paediatric,C-18,2026-11-06,,high BP
+A418,2,H2-00090,Paediatric,A-25,15-11-2026,,acute appendicitis
+A419,2,H2-00097,General,C-24,15-11-2026,,Typhoid fever
+A420,2,H2-00104,ICU,A-18,2026-11-08,,asthma exacerbation
+A421,2,H2-00111,Maternity,B-22,03/11/2026,,renal calculus
+A422,2,H2-00005,Maternity,A-6,06/11/2026,,dengue +ve
+A423,2,H2-00012,Paediatric,B-4,2026-11-06,,T2DM uncontrolled
+A424,2,H2-00019,General,B-3,2026-11-05,,Typhoid fever
+A425,2,H2-00026,General,B-1,13/11/2026,,high BP
+A426,2,H2-00033,General,B-35,2026-11-06,,viral fever
+A427,2,H2-00040,Maternity,C-33,2026-11-13,,tb suspect
+A428,2,H2-00047,General,C-2,06/11/2026,,renal calculus
+A429,3,H3-00001,Surgical,A-34,2026-11-13,,acute appendicitis
+A430,3,H3-00008,Maternity,A-35,13/11/2026,,asthma exacerbation
+A431,3,H3-00015,General,C-30,09/11/2026,,pneumonia
+A432,3,H3-00022,Paediatric,B-25,2026-11-10,,tb suspect
+A433,3,H3-00029,ICU,A-40,2026-11-14,,Typhoid fever
+A434,3,H3-00036,General,A-21,2026-11-06,,post op wound care
+A435,3,H3-00043,Surgical,A-23,2026-11-15,,post op wound care
+A436,3,H3-00050,General,A-14,2026-11-08,,chest pain ? MI
+A437,3,H3-00057,Maternity,A-9,2026-11-06,,renal calculus
+A438,3,H3-00064,Paediatric,B-29,09/11/2026,,chest pain ? MI
+A439,3,H3-00071,Surgical,B-21,12/11/2026,,loose motions / vomiting
+A440,3,H3-00078,Paediatric,B-35,2026-11-04,,# femur
+A441,3,H3-00085,Surgical,A-11,05/11/2026,,T2DM uncontrolled
+A442,3,H3-00092,Surgical,B-34,2026-11-10,,chest pain ? MI
+A443,3,H3-00099,ICU,B-4,2026-11-05,,renal calculus
+A444,3,H3-00106,Maternity,C-34,2026-11-14,,asthma exacerbation
+A445,3,H3-00005,General,A-38,2026-11-05,,UTI
+A446,3,H3-00012,Paediatric,B-3,10/11/2026,,post op wound care
+A447,3,H3-00019,ICU,A-33,15/11/2026,,viral fever
+A448,3,H3-00026,Maternity,A-1,12/11/2026,,high BP
+A449,3,H3-00033,Paediatric,C-2,13/11/2026,,asthma exacerbation
+A450,3,H3-00040,Maternity,B-3,07/11/2026,,renal calculus
+A451,3,H3-00047,Maternity,A-5,2026-11-13,,acute appendicitis
+A452,3,H3-00054,ICU,B-40,2026-11-14,,dengue +ve
+A453,3,H3-00061,Surgical,B-10,2026-11-12,,# femur
+A454,3,H3-00068,Surgical,A-19,04/11/2026,,chest pain ? MI
+A455,3,H3-00075,Maternity,B-32,2026-11-08,,renal calculus
+A456,3,H3-00082,Maternity,A-32,07/11/2026,,acute appendicitis
+A457,3,H3-00089,ICU,C-7,13/11/2026,,T2DM uncontrolled
+A458,3,H3-00096,General,A-32,2026-11-04,,tb suspect
+A459,3,H3-00103,Paediatric,C-10,2026-11-09,,post op wound care
+A460,3,H3-00002,Surgical,C-34,07/11/2026,,pneumonia
+A461,3,H3-00009,Maternity,C-16,2026-11-13,,asthma exacerbation
+A462,3,H3-00016,General,A-5,2026-11-05,,UTI
+A463,3,H3-00023,Maternity,C-31,2026-11-14,,tb suspect
+A464,3,H3-00030,Paediatric,C-18,07/11/2026,,post op wound care
+A465,3,H3-00037,Surgical,B-31,09/11/2026,,acute appendicitis
+A466,3,H3-00044,Maternity,B-1,2026-11-15,,# femur
+A467,3,H3-00051,ICU,B-4,2026-11-04,,asthma exacerbation
+A468,4,H4-00001,Surgical,A-29,13/11/2026,,T2DM uncontrolled
+A469,4,H4-00008,ICU,B-34,2026-11-05,,viral fever
+A470,4,H4-00015,General,A-12,15-11-2026,,chest pain ? MI
+A471,4,H4-00022,General,C-37,2026-11-11,,pneumonia
+A472,4,H4-00029,ICU,C-28,2026-11-15,,acute appendicitis
+A473,4,H4-00036,General,A-13,13/11/2026,,asthma exacerbation
+A474,4,H4-00043,Maternity,A-4,2026-11-04,,chest pain ? MI
+A475,4,H4-00050,Paediatric,C-11,13-11-2026,,renal calculus
+A476,4,H4-00057,General,C-14,2026-11-03,,# femur
+A477,4,H4-00064,Maternity,C-20,10/11/2026,,high BP
+A478,4,H4-00071,Surgical,B-12,06/11/2026,,# femur
+A479,4,H4-00078,ICU,B-33,2026-11-15,,T2DM uncontrolled
+A480,4,H4-00085,ICU,B-40,2026-11-04,,viral fever
+A481,4,H4-00092,Paediatric,B-23,2026-11-13,,pneumonia
+A482,4,H4-00099,Paediatric,C-21,03/11/2026,,asthma exacerbation
+A483,4,H4-00106,ICU,A-8,2026-11-04,,renal calculus
+A484,4,H4-00004,Paediatric,A-19,2026-11-06,,UTI
+A485,4,H4-00011,Surgical,C-20,11-11-2026,,viral fever
+A486,4,H4-00018,Paediatric,A-38,2026-11-10,,viral fever
+A487,4,H4-00025,Maternity,A-13,10/11/2026,,UTI
+A488,4,H4-00032,Paediatric,B-20,10/11/2026,,T2DM uncontrolled
+A489,4,H4-00039,Surgical,C-24,07/11/2026,,Typhoid fever
+A490,4,H4-00046,General,A-26,2026-11-10,,# femur
+A491,4,H4-00053,Surgical,B-36,09-11-2026,,asthma exacerbation
